@@ -14,9 +14,29 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+  language: pt-BR
+
 nav:
   - Home: README.md
   - Sobre: sobre.md
@@ -52,26 +72,3 @@ nav:
 #
 # =============================================
 
-theme:
-  name: material
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.footer
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: claro
-      toggle:
-        icon: material/brightness-7
-        name: Mudar para o modo escuro
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Mudar para o modo claro
-  language: pt-BR
-  favicon: assets/icon.PNG
-  logo: assets/icon.PNG
