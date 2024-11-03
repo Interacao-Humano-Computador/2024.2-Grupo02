@@ -19,7 +19,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
   - Home: README.md
-  - Sobre: index.md
+  - Sobre: sobre.md
 # =============================================
 # Tutorial para adicionar novas páginas
 # =============================================
