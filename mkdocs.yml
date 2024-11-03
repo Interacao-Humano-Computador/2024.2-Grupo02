@@ -1,11 +1,7 @@
-# Nome do site
 site_name: "Open Library"
-
-# Repositório GitHub
 repo_url: https://github.com/interacao-humano-computador/2024.2-Grupo02/
 repo_name: "2024.2-Grupo02"
 
-# Extensões Markdown
 markdown_extensions:
   - admonition
   - attr_list
@@ -21,11 +17,9 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-# Navegação
 nav:
-  - Home: index.md
-
+  - Home: README.md
+  - Sobre: index.md
 # =============================================
 # Tutorial para adicionar novas páginas
 # =============================================
@@ -58,7 +52,6 @@ nav:
 #
 # =============================================
 
-# Tema
 theme:
   name: material
   features:
