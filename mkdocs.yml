@@ -38,8 +38,7 @@ theme:
   language: pt-BR
 
 nav:
-  - Home: README.md
-  - Sobre: sobre.md
+  - Home: index.md
 # =============================================
 # Tutorial para adicionar novas páginas
 # =============================================
