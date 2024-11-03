@@ -1,2 +1,23 @@
 repo_url: https://interacao-humano-computador.github.io/2024.2-Grupo02/
 repo_name: 2024.2-Grupo02
+
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+site_name: Open Library
+nav:
+  - Home: index.md
