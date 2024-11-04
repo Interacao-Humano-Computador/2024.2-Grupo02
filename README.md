@@ -11,7 +11,6 @@ Este repositório é dedicado à documentação e análise de Interação Humano
 ## Estrutura do Repositório
 
 * `docs/` - Documentação das análises e estudos realizados.
-* `assets/` - Imagens e outros recursos utilizados na documentação.
 
 
 ### Membros do grupo
