@@ -3,6 +3,7 @@
 ## 1. Identificação
 
 <div align="center">
+<font size="2"><p style="text-align: center">Tabela 1: Identificação.</p></font>
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local       | Redator     | Projeto      |
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|
@@ -13,6 +14,7 @@
 ## 2. Convocados
 
 <div align="center">
+<font size="2"><p style="text-align: center">Tabela 2: Convocação.</p></font>
 
 | Nome             | Presente |
 |------------------|----------|
@@ -27,6 +29,7 @@
 ## 3. Pauta
 
 <div align="center">
+<font size="2"><p style="text-align: center">Tabela 3: Pauta.</p></font>
 
 | N° | Descrição                                      |
 |----|------------------------------------------------|
@@ -55,6 +58,7 @@
 ## 5. Assuntos Tratados
 
 <div align="center">
+<font size="2"><p style="text-align: center">Tabela 5: Assustos Tratados.</p></font>
 
 | N°  | Descrição                                        | Tipo      |
 |-----|--------------------------------------------------|-----------|
@@ -94,6 +98,7 @@
 ### Compromissos
 
 <div align="center">
+<font size="2"><p style="text-align: center">Tabela 6: Compromissos.</p></font>
 
 | N°  | Compromisso                                    | Responsável    | Data    |
 |-----|------------------------------------------------|----------------|---------|
