@@ -1,8 +1,8 @@
-# Ferrmentas 
+# Ferramentas 
 
 Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação dos artefatos necessários
 
-## Ferramenta utilizadas no projeto:
+## Ferramentas utilizadas no projeto:
 
 <center>
 
