@@ -5,17 +5,16 @@ Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para 
 ## Ferramentas utilizadas no projeto:
 
 <center>
-
 <font size="2"><p style="text-align: center">Tabela 1: Ferramentas utilizadas no projeto.</p></font>
 
-| Ferramenta         | Descrição                                                                                                         | 
-| ------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| Git/GitHub         |  Plataforma de versionamento e colaboração em projetos de desenvolvimento.  |
-| GitPages          | Serviço para hospedar sites diretamente de repositórios GitHub. |
-| Google Docs      | Ferramenta para criação e edição colaborativa de documentos.|
-| Google Meet      | Ferramenta para videoconferências e reuniões em tempo real.                                           |
-| Google Spreadsheet| Ferramenta para criação e edição colaborativa de planilhas.    |
-| YouTube          | Plataforma de hospedagem de vídeos produzidos.                                 |
-| Screen Record    | Ferramenta para gravação de tela, útil para tutoriais e revisões.                                                                                |
-| whatsapp         | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.|
-| Google Chrome/Brave/Firefox| Navegadores para acessar e testar plataformas e ferramentas online.           |
+| Logo                                                | Ferramenta               | Descrição                                                                                                         |
+| --------------------------------------------------- | ------------------------ | ----------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> | Git/GitHub               | Plataforma de versionamento e colaboração em projetos de desenvolvimento.                                        |
+| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> | GitPages                 | Serviço para hospedar sites diretamente de repositórios GitHub.                                                  |
+| <img src="https://img.icons8.com/color/48/000000/google-docs.png"  width="25"> | Google Docs              | Ferramenta para criação e edição colaborativa de documentos.                                                     |
+| <img src="https://img.icons8.com/color/48/000000/google-meet.png" width="25"> | Google Meet              | Ferramenta para videoconferências e reuniões em tempo real.                                                      |
+| <img src="https://img.icons8.com/color/48/000000/google-sheets.png" width="25"> | Google Spreadsheet       | Ferramenta para criação e edição colaborativa de planilhas.                                                      |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="25"> | YouTube                  | Plataforma de hospedagem de vídeos produzidos.                                                                   |
+| <img src="https://via.placeholder.com/50" width="25"> | Screen Recorder            | Ferramenta para gravação de tela, útil para tutoriais e revisões.                                               |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="25"> | WhatsApp                 | Aplicativo de mensagens instantâneas, utilizado para comunicação rápida e colaboração em equipe.                 |
+| <img src="https://img.icons8.com/color/48/000000/google-chrome.png"  width="25"> | Google Chrome/Brave/Firefox | Navegadores para acessar e testar plataformas e ferramentas online.                                         |
