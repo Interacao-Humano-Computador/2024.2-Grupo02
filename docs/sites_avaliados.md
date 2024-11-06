@@ -10,6 +10,7 @@ Responsável: [João Vitor](https://github.com/Gam13)
 O [Glad](https://glad.dav1d.de/) GL Loader Generator, é uma ferramenta que serve para gerar loaders para APIs gráficas, especialmente OpenGL e Vulkan. Ele facilita o processo de carregar e usar funções específicas dessas APIs.
 
 Ao usar o GLAD, você pode:
+
 - Selecionar a versão do OpenGL ou Vulkan que deseja utilizar.
 - Escolher extensões específicas que sua aplicação requer.
 - Gerar um conjunto de arquivos de código que incluem funções da API gráfica, prontos para serem usados em seu projeto.
