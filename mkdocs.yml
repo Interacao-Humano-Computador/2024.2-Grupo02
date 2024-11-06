@@ -39,6 +39,8 @@ theme:
 
 nav:
   - Home: index.md
+  - Sites_avaliados: sites_avaliados.md
+
 # =============================================
 # Tutorial para adicionar novas páginas
 # =============================================
