@@ -1,0 +1,90 @@
+site_name: "Defensoria Pública do Distrito Federal"
+repo_url: https://github.com/interacao-humano-computador/2024.2-Grupo02/
+repo_name: "2024.2-Grupo02"
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
+  language: pt-BR
+
+nav:
+  - Home: index.md
+  - Planejamento:
+    - Sites avaliados: Planejamento/sites_avaliados.md
+    - Site escolhido: Planejamento/site_escolhido.md
+    - Processo de Design: Planejamento/processo_design.md
+    - Ferramentas: Planejamento/ferramentas.md
+    - HeatMap: Planejamento/heat_map.md
+  - Atas de reunião:
+    - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
+  - Guia de Contribuição:
+    - Politicas: Contribuição/Politicas.md
+    - Como contribuir?: Contribuição/Tutorial.md
+    - Práticas:
+      - Políticas de Branchs: Contribuição/Politicas/Branch.md
+      - Políticas de Commit: Contribuição/Politicas/Commit.md
+      - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
+    
+
+# =============================================
+# Tutorial para adicionar novas páginas
+# =============================================
+# 
+# 1. Crie um arquivo .md dentro do diretório "docs".
+#    Por exemplo, você pode criar "docs/sobre.md" para uma página Sobre.
+#
+# 2. Para adicionar esta página à navegação do site:
+#    - Adicione uma nova entrada em "nav" como no exemplo abaixo.
+#
+#      nav:
+#        - Home: index.md
+#        - Sobre: sobre.md
+#
+#    Isso fará com que a página "sobre.md" apareça no menu de navegação 
+#    com o nome "Sobre".
+#
+# 3. Organizando em seções:
+#    - Para criar uma seção com várias páginas, use uma lista.
+#    - Exemplo:
+#
+#      nav:
+#        - Home: index.md
+#        - Projeto:
+#            - Visão Geral: projeto/visao_geral.md
+#            - Objetivos: projeto/objetivos.md
+#
+#    Nesse caso, as páginas "visao_geral.md" e "objetivos.md" estarão
+#    em uma seção chamada "Projeto" no menu de navegação.
+#
+# =============================================
+
