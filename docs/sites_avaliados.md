@@ -49,5 +49,5 @@ A avaliação heurística do Portal Meu INSS identificou vários problemas, prin
 - Consistência e Padronização : Severidade grave
 - Conformidade com Padrões de Interface: Severidade grave
 
-**[Avaliação Completa](docs/MeuINSS.pdf)**
+**[Avaliação Completa](MeuINSS.pdf)**
 
