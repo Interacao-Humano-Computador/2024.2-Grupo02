@@ -1,0 +1,1 @@
+Nesta seção é possível analisar as Atas de reunião do grupo
