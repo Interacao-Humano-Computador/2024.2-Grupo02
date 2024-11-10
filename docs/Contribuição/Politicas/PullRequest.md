@@ -1,7 +1,3 @@
-Aqui está a seção reformulada para os Pull Requests:
-
----
-
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
