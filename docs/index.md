@@ -1,6 +1,6 @@
 # Defensoria Pública do Distrito Federal
 
-<p align="center"><img src="../../assets/images/dpdf.jpg" width="100%"></p>
+<p align="center"><img src="../assets/images/dpdf.jpg" width="100%"></p>
 
 
 ## Sobre o Projeto
