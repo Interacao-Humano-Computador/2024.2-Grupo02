@@ -1,8 +1,8 @@
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |  |
-| 06/11/2024 |        10/11/2024        |  1.1   |     Adicionado o histórico de versões     |   [Lucas Sales](https://github.com/Lux-Sales)    |  |
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |[Paola Nascimento](https://github.com/paolaalim)   |
+| 06/11/2024 |        10/11/2024        |  1.1   |     Adicionado o histórico de versões     |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13)  |
 
 # Reunião 02/11/2024
 
