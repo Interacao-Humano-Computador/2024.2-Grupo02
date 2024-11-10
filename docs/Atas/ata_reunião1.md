@@ -9,6 +9,8 @@ A reunião inicial com a equipe teve como propósito definir as plataformas a se
 ## Participantes Convocados
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não.
 
+<div align="center">
+
 **Tabela 1: Convocação**
 
 | Nome             | Presente |
@@ -18,6 +20,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 | Lucas Sales      | Sim      |
 | Paola Nascimento | Não      |
 | Paulo Henrique   | Não      |
+
+</div>
 
 ## Pautas
 
@@ -31,6 +35,8 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 - Distribuição de tarefas para próximos passos.
 
 ## Compromissos
+
+<div align="center">
 
 **Tabela 2: Compromissos**
 
@@ -50,3 +56,5 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 | 16  | Revisão da entrega parcial                     | Todos           | 09/11   |
 | 17  | Revisão final                                  | Todos           | 10/11   |
 | 18  | Entrega                                        | Lucas Sales     | 11/11   |
+
+</div>
