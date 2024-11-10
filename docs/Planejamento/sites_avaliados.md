@@ -43,4 +43,4 @@ Para analisar com profundidade a avaliação heurística realizada, acesse o lin
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  |
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  [João Victor C. Nobre](https://github.com/Gam13)|
