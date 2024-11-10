@@ -49,11 +49,12 @@ nav:
     - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
+    - Como contribuir?: Contribuição/Tutorial.md
     - Práticas:
       - Políticas de Branchs: Contribuição/Politicas/Branch.md
       - Políticas de Commit: Contribuição/Politicas/Commit.md
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
-    - Como contribuir?: Contribuição/Tutorial.md
+    
 
 # =============================================
 # Tutorial para adicionar novas páginas
