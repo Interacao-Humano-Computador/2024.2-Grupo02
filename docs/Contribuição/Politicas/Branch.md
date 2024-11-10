@@ -1,6 +1,6 @@
 
 
-# Documento de Contribuição - Grupo 02
+# Politícas de Branch
 
 ## Histórico de Versão
 
