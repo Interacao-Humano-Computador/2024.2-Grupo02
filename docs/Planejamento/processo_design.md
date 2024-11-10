@@ -15,7 +15,7 @@ Dos ciclos de vida do processo de design apresentados durante a disciplina, o ci
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  |
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  [João Victor C. Nobre](https://github.com/Gam13)|
 
 
 ## Bibliografia
