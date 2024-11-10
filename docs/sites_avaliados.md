@@ -33,14 +33,21 @@ A avaliação de IHC do site Open Library permite analisar a experiência de lei
 ## Meu INSS
 Responsável: [Karolina Vieira](https://github.com/Karolina91)
 
-O [Meu INSS](https://meu.inss.gov.br/#/login) é um sistema digital do Instituto Nacional do Seguro Social (INSS) do Brasil, que oferece aos cidadãos acesso aos serviços relacionados à Previdência Social de forma online
+### Introdução
 
-Ao usar o Meu INSS, você pode:
+O [Meu INSS](https://meu.inss.gov.br/#/login) é um sistema digital do Instituto Nacional do Seguro Social (INSS) do Brasil, que oferece aos cidadãos acesso aos serviços relacionados à Previdência Social de forma online.
 
-- Consultas: Acessar informações sobre benefícios como aposentadoria, pensão por morte, auxílio-doença, entre outros.
-- Solicitações: Fazer solicitações de benefícios, como o pedido de aposentadoria ou de aposentadoria por invalidez.
-- Agendamento de serviços: Agendar atendimento presencial ou via telefone para serviços específicos do INSS.
-- Emissão de documentos: Emitir extratos de contribuições, certidões e outros documentos relacionados ao INSS.
-- Acompanhamento de processos: Consultar o andamento de pedidos de benefícios e outros processos administrativos.
+### Motivo da Escolha
 
-O site Meu INSS é interesante para a avaliação de IHC porque pode fazer uma análise para focar na facilidade de uso, navegação intuitiva e acessibilidade para cidadãos, principalmente os que não têm familiaridade com tecnologia
+A plataforma Meu INSS foi escolhida para esta análise devido à sua função essencial no cotidiano dos cidadãos e à identificação de problemas de usabilidade que afetam sua eficácia. A dificuldade dos usuários em acessar serviços simples e informações importantes torna o portal um caso de estudo relevante, especialmente em relação à interface e à experiência do usuário.
+
+### Resultados da Avaliação
+
+A avaliação heurística do Portal Meu INSS identificou vários problemas, principalmente relacionados à interface do usuário e à conformidade com padrões de design. Os principais problemas encontrados foram:
+
+- Projeto Estético e Minimalista : Severidade grave
+- Consistência e Padronização : Severidade grave
+- Conformidade com Padrões de Interface: Severidade grave
+
+**[Avaliação Completa](docs/MeuINSS.pdf)**
+
