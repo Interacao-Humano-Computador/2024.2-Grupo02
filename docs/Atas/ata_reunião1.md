@@ -1,3 +1,8 @@
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+| 04/11/2024 |        07/10/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |  |
+
 # Reunião 02/11/2024
 
 Início: 10:15 | Fim: 11:20
@@ -9,9 +14,11 @@ A reunião inicial com a equipe teve como propósito definir as plataformas a se
 ## Participantes Convocados
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não.
 
-<div align="center">
+<center>
 
-**Tabela 1: Convocação**
+
+<table align="center">
+Tabela 1: Convocação.
 
 | Nome             | Presente |
 |------------------|----------|
@@ -21,7 +28,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 | Paola Nascimento | Não      |
 | Paulo Henrique   | Não      |
 
-</div>
+</center>
 
 ## Pautas
 
@@ -34,27 +41,26 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 - Definir site a ser avaliado no projeto;
 - Distribuição de tarefas para próximos passos.
 
-## Compromissos
 
-<div align="center">
+### Compromissos
 
-**Tabela 2: Compromissos**
+<center>
+<table align="center">
+Tabela 1: Compromissos.
 
-| N°  | Compromisso                                    | Responsável     | Data    |
-|-----|------------------------------------------------|-----------------|---------|
-| 1   | Configuração do repositório para o Pages       | João Victor     | 04/11   |
-| 3   | Site selecionado para o projeto da disciplina  | Lucas Sales     | 05/11   |
-| 5   | Lista de sites avaliados                       | Karolina Vieira | 05/11   |
-| 7   | Heatmap de disponibilidade dos integrantes     | Lucas Sales     | 05/11   |
-| 9   | Ferramentas do projeto                         | Karolina Vieira | 06/11   |
-| 10  | Equipe - Pages                                 | João Victor     | 04/11   |
-| 11  | Processo de design                             | Lucas Sales     | 06/11   |
-| 12  | Cronograma                                     | Todos           | 08/11   |
-| 13  | Cronograma - Pages                             | Lucas Sales     | 07/11   |
-| 14  | Ata da reunião - Pages                         | Karolina Vieira | 08/11   |
-| 15  | Entrega parcial                                | Todos           | 08/11   |
-| 16  | Revisão da entrega parcial                     | Todos           | 09/11   |
-| 17  | Revisão final                                  | Todos           | 10/11   |
-| 18  | Entrega                                        | Lucas Sales     | 11/11   |
-
-</div>
+| N°  | Compromisso                                    | Responsável    | Data    |
+|-----|------------------------------------------------|----------------|---------|
+| 1   | Configuração do repositório para o Pages       | João Victor    | 04/11   |
+| 3   | Site selecionado para o projeto da disciplina - Pages | Lucas Sales | 05/11   |
+| 5   | Lista de sites avaliados - Pages               | Karolina Vieira| 05/11   |
+| 7   | Heatmap de disponibilidade dos integrantes - Pages | Lucas Sales | 05/11   |
+| 9   | Ferramentas do projeto - Pages                 | Karolina Vieira| 06/11   |
+| 10  | Equipe - Pages                                 | João Victor    | 04/11   |
+| 11  | Processo de design - Pages                     | Lucas Sales    | 06/11   |
+| 12  | Cronograma                                     | Todos          | 08/11   |
+| 13  | Cronograma - Pages                             | Lucas Sales    | 07/11   |
+| 14  | Ata da reunião - Pages                         | Karolina Vieira| 08/11   |
+| 15  | Entrega parcial                                | Todos          | 08/11   |
+| 16  | Revisão da entrega parcial                     | Todos          | 09/11   |
+| 17  | Revisão final                                  | Todos          | 10/11   |
+| 18  | Entrega                                        | Lucas Sales    | 11/11   |
