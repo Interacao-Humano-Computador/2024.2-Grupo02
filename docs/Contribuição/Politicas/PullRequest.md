@@ -15,7 +15,7 @@ Os Pull Requests (PRs) são uma parte fundamental do fluxo de trabalho no Git, p
 - **Após revisar as mudanças**: Antes de submeter um PR, revise suas alterações localmente para garantir que tudo esteja funcionando corretamente e que o código esteja limpo e bem documentado.
 
 ### Como criar um Pull Request?
-1. **Escolha a branch correta**: O PR deve ser feito da sua branch de trabalho, ou seja, para a branch `devel`.
+1. **Escolha a branch correta**: O PR deve ser feito da sua branch de trabalho para a branch `devel`.
 2. **Descreva claramente o que foi feito**: O título e a descrição do PR devem ser claros e objetivos. Indique o que foi alterado, adicionado ou corrigido e, se necessário, explique o contexto das mudanças.
    
    **Exemplo de título de PR**:
