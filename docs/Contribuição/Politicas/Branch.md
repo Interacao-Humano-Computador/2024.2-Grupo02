@@ -1,6 +1,6 @@
 
 
-# Politícas de Branch
+# Políticas de Branch
 
 ## Histórico de Versão
 
