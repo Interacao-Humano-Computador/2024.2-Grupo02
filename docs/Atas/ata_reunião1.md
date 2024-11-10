@@ -7,7 +7,7 @@
 
 | Data       | Hora de Início Previsto | Hora de Início Realizado | Hora de Término Previsto | Hora de Término Realizado | Local       | Redator     | Projeto      |
 |------------|--------------------------|--------------------------|--------------------------|---------------------------|-------------|-------------|--------------|
-| 02/11/2024 | 10:00                    | 10:15                    | 12:00                    | 11:20                     | Google Meet | Lucas Sales | Open Library |
+| 02/11/2024 | 10:00                    | 10:15                    | 12:00                    | 11:20                     | Google Meet | Lucas Sales | DPDF |
 
 </div>
 

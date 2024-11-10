@@ -1,11 +1,11 @@
-# Open Library
+# Defensoria Pública do Distrito Federal
 
-<p align="center"><img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" width="100%"></p>
+<p align="center"><img src="../../assets/images/dpdf.jpg" width="100%"></p>
 
 
 ## Sobre o Projeto
 
-Este repositório é dedicado à documentação e análise de Interação Humano Computador (IHC)  com o Prof. André Barros de Sales, o site analisado para a matéria foi o [Open Library](https://openlibrary.org/), realizada pelo Grupo 02 da disciplina de IHC na Faculdade do Gama da Universidade de Brasília (FGA-UnB), durante o 2º semestre de 2024.
+Este repositório é dedicado à documentação e análise de Interação Humano Computador (IHC)  com o Prof. André Barros de Sales, o site analisado para a matéria foi a [Defensoria Pública do Distrito Federal](https://www.defensoria.df.gov.br/), realizada pelo Grupo 02 da disciplina de IHC na Faculdade do Gama da Universidade de Brasília (FCTE-UnB), durante o 2º semestre de 2024.
 
 
 ## Estrutura do Repositório
