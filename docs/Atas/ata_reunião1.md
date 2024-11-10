@@ -56,3 +56,6 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 | 16  | Revisão da entrega parcial                     | Todos           | 09/11   |
 | 17  | Revisão final                                  | Todos           | 10/11   |
 | 18  | Entrega                                        | Lucas Sales     | 11/11   |
+
+
+Você pode ver a versão em PDF [aqui](../assets/atas/DPDF_AtaReuniao_20241102_01.docx.pdf)
