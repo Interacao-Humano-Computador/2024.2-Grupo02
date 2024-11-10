@@ -33,13 +33,13 @@ Aqui está a seção reformulada com as instruções de nomenclatura para as bra
 3. **Como devo nomear minhas branches?**
    - Ao criar uma branch, é importante que seu nome seja claro e informativo. Ele deve indicar tanto o tipo de alteração quanto o conteúdo específico. Abaixo estão exemplos de sufixos para identificar o tipo de modificação:
 
-     - **[fix]**: Para correções, como ajustes em erros ou bugs. Exemplo: `(fix) cronograma`.
-     - **[new]**: Para novos recursos ou documentos que estão sendo adicionados. Exemplo: `(new) introducao`.
-     - **[upd]**: Para atualizações em conteúdo já existente, sem introduzir novos recursos ou se tratar de uma correção. Exemplo: `(upd) manual_uso`.
+     - **fix**: Para correções, como ajustes em erros ou bugs. Exemplo: `fix_cronograma`.
+     - **new**: Para novos recursos ou documentos que estão sendo adicionados. Exemplo: `new_introducao`.
+     - **upd**: Para atualizações em conteúdo já existente, sem introduzir novos recursos ou se tratar de uma correção. Exemplo: `upd_manual_uso`.
 
    - Lembre-se de substituir o termo entre parênteses e ajustar o nome da branch conforme o conteúdo específico que está sendo modificado.
 
 ### Resumo dos sufixos para nomes de branches:
-- **[fix]**: Correções
-- **[new]**: Novo conteúdo
-- **[upd]**: Atualizações
+- **fix**: Correções
+- **new**: Novo conteúdo
+- **upd**: Atualizações
