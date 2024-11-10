@@ -1,3 +1,9 @@
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |  |
+| 06/11/2024 |        10/11/2024        |  1.1   |     Adicionado o histórico de versões     |   [Lucas Sales](https://github.com/Lux-Sales)    |  |
+
 # Reunião 02/11/2024
 
 Início: 10:15 | Fim: 11:20

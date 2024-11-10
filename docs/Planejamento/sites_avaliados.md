@@ -1,5 +1,10 @@
 # Sites Avaliados
 
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
+| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  |
+
 ## Introdução
 
 No projeto de IHC, a equipe realizou análises individuais em sites candidatos, com base em critérios como usabilidade, acessibilidade e conformidade com padrões de design. Os sites avaliados foram:
@@ -37,10 +42,3 @@ Ao usar o Meu INSS, você pode:
 - Acompanhamento de processos: Consultar o andamento de pedidos de benefícios e outros processos administrativos.
 
 O site Meu INSS é interesante para a avaliação de IHC porque pode fazer uma análise para focar na facilidade de uso, navegação intuitiva e acessibilidade para cidadãos, principalmente os que não têm familiaridade com tecnologia
-
-Para analisar com profundidade a avaliação heurística realizada, acesse o link: <a href="../../assets/sitesAvaliados/MeuINSS.pdf" target="_blank">Meu INSS</a>
-
-## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
-| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  [João Victor C. Nobre](https://github.com/Gam13)|
