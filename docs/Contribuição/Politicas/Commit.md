@@ -19,9 +19,9 @@
 - O nome de um commit deve ser claro e descritivo, explicando brevemente o que foi alterado. Um bom nome facilita a identificação do propósito de cada commit.
 
 **Exemplo de boas práticas**:
-- **(fix)**: Para correções, como ajustes em erros ou bugs. Exemplo: `(fix) corrigir erro de digitação no cronograma`.
-- **(new)**: Para novos recursos ou funcionalidades. Exemplo: `(new) adicionar novo módulo de autenticação`.
-- **(upd)**: Para atualizações em funcionalidades ou documentos já existentes. Exemplo: `(upd) atualizar documentação do projeto`.
+- **[fix]**: Para correções, como ajustes em erros ou bugs. Exemplo: `(fix) corrigir erro de digitação no cronograma`.
+- **[new]**: Para novos recursos ou funcionalidades. Exemplo: `(new) adicionar novo módulo de autenticação`.
+- **[upd]**: Para atualizações em funcionalidades ou documentos já existentes. Exemplo: `(upd) atualizar documentação do projeto`.
 
 ### Benefícios de realizar commits frequentemente:
 - **Facilidade de rastreamento**: Menores mudanças são mais fáceis de revisar e reverter, caso necessário.

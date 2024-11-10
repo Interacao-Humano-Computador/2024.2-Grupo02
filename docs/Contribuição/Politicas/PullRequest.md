@@ -24,9 +24,9 @@ Os Pull Requests (PRs) são uma parte fundamental do fluxo de trabalho no Git, p
    
    **Exemplo de título de PR**:
    
-   - **(fix)** Corrigir caminho da logo
+   - **[fix]** Corrigir caminho da logo
 
-   - **(new)** Ata da reunião do dia 09/11/2024
+   - **[new]** Ata da reunião do dia 09/11/2024
 
 **Verifique a compatibilidade do código**: Certifique-se de que suas alterações estão compatíveis com o restante do código do projeto, sem causar conflitos.
 
