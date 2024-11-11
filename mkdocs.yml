@@ -40,6 +40,7 @@ theme:
 nav:
   - Home: index.md
   - Planejamento:
+    - Cronograma: Planejamento/cronograma.md
     - Sites avaliados: Planejamento/sites_avaliados.md
     - Site escolhido: Planejamento/site_escolhido.md
     - Processo de Design: Planejamento/processo_design.md
