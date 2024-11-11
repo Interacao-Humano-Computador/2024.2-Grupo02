@@ -40,6 +40,7 @@ theme:
 nav:
   - Home: index.md
   - Planejamento:
+    - Cronograma: Planejamento/cronograma.md
     - Sites avaliados: Planejamento/sites_avaliados.md
     - Site escolhido: Planejamento/site_escolhido.md
     - Processo de Design: Planejamento/processo_design.md
@@ -47,6 +48,8 @@ nav:
     - HeatMap: Planejamento/heat_map.md
   - Atas de reunião:
     - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
+    - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
+    - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
