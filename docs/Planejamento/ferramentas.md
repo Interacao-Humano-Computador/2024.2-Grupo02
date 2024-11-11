@@ -3,7 +3,7 @@
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
 | :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  [João Victor C. Nobre](https://github.com/Gam13)|
+| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |  [João Victor C. Nobre](https://github.com/Gam13)|
 
 
 Ao longo deste projeto, utilizamos um conjunto estratégico de ferramentas para otimizar a organização da equipe, facilitar o gerenciamento e impulsionar a criação dos artefatos necessários
