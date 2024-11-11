@@ -1,11 +1,13 @@
-## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
-| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
 
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Karolina Vieira](https://github.com/Karolina91)    |[Paola Nascimento](https://github.com/paolaalim)   |
-| 06/11/2024 |        10/11/2024        |  1.1   |     Adicionado o histórico de versões     |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13)  |
 
 # Reunião 02/11/2024
+
+## Histórico de Versão
+
+|    Data    | Data Prevista de Revisão | Versão | Descrição                     | Autor                                                               | Revisor                                         |
+|------------|--------------------------|--------|-------------------------------|---------------------------------------------------------------------|-------------------------------------------------|
+| 06/11/2024 | 07/11/2024               | 1.0    | Criação do Documento          | [Karolina Vieira](https://github.com/Karolina91)                    | [Paola Nascimento](https://github.com/paolaalim) |
+| 06/11/2024 | 10/11/2024               | 1.1    | Adicionado o histórico de versões | [Lucas Sales](https://github.com/Lux-Sales)                         | [João Victor C. Nobre](https://github.com/Gam13) |
 
 Início: 10:15 | Fim: 11:20
 
@@ -16,10 +18,7 @@ A reunião inicial com a equipe teve como propósito definir as plataformas a se
 ## Participantes Convocados
 Na Tabela 1, são apresentados os participantes da reunião juntamente com os indicadores que demonstram se estão presentes ou não.
 
-<center>
 
-
-<table align="center">
 Tabela 1: Convocação.
 
 | Nome             | Presente |
@@ -29,8 +28,6 @@ Tabela 1: Convocação.
 | Lucas Sales      | Sim      |
 | Paola Nascimento | Não      |
 | Paulo Henrique   | Não      |
-
-</center>
 
 ## Pautas
 
@@ -47,8 +44,6 @@ Tabela 1: Convocação.
 
 ### Compromissos
 
-<center>
-<table align="center">
 Tabela 1: Compromissos.
 
 | N°  | Compromisso                                    | Responsável    | Data    |
@@ -68,6 +63,7 @@ Tabela 1: Compromissos.
 | 17  | Revisão final                                  | Todos          | 10/11   |
 | 18  | Entrega                                        | Lucas Sales    | 11/11   |
 =======
+
 ## Compromissos
 
 **Tabela 2: Compromissos**
