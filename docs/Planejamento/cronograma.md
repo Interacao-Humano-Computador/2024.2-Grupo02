@@ -67,18 +67,18 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                        Tarefa                        |               Responsáveis                |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :--------------------------------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-|                  Perfil do usuário                   |                Joao Victor                | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |         |
-|                       Personas                       |                João Victor                | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |         |
-|                   Aspectos éticos                    |                João Victor                | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |         |
-| Técnicas para coletar dados e levantar os requisitos |              Karolina Vieira              | 14/11/2024 | 16/11/2024 |   16/11/2024   | 19/11/2024  |         |
-|                       Cenários                       |              Karolina Vieira              | 14/11/2024 | 16/11/2024 |   16/11/2024   | 19/11/2024  |         |
-|                  Análise de tarefas                  |              Karolina Vieira              | 17/11/2024 | 19/11/2024 |   20/11/2024   | 23/11/2024  |         |
-|                  Reunião de revisão                  | Karolina Vieira, João Victor, Lucas Sales | 23/11/2024 | 23/11/2024 |   23/11/2024   |     24/     |
-|                  Atualizar o pages                   | Karolina Vieira, João Victor, Lucas Sales | 23/11/2024 | 23/11/2024 |   23/11/2024   | 24/11/2024  |         |
-|                 Gravar apresentação                  | Karolina Vieira, João Victor, Lucas Sales | 24/11/2024 | 24/11/2024 |   24/11/2024   | 28/11/2024  |         |
-|           Apresentação do projeto etapa 2            |                Lucas Sales                | 28/11/2024 | 28/11/2024 |   28/11/2024   | 28/11/2024  |         |
+|                        Tarefa                        |         Responsáveis         |   Início   |    Fim     | Revisão Início | Revisão Fim |           Revisor            |
+| :--------------------------------------------------: | :--------------------------: | :--------: | :--------: | :------------: | :---------: | :--------------------------: |
+|                  Perfil do usuário                   |         João Victor          | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |         Lucas Sales          |
+|                       Personas                       | Lucas Sales, Karolina Vieira | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |   João Victor, Paola Lima    |
+|                   Aspectos éticos                    |          Paola Lima          | 12/11/2024 | 13/11/2024 |   14/11/2024   | 16/11/2024  |       Karolina Vieira        |
+| Técnicas para coletar dados e levantar os requisitos |   Lucas Sales, Paola Lima    | 14/11/2024 | 16/11/2024 |   16/11/2024   | 19/11/2024  | João Victor, Karolina Vieira |
+|                       Cenários                       |         João Victor          | 14/11/2024 | 16/11/2024 |   16/11/2024   | 19/11/2024  |         Lucas Sales          |
+|                  Análise de tarefas                  | Karolina Vieira, Paola Lima  | 17/11/2024 | 19/11/2024 |   20/11/2024   | 23/11/2024  |   Lucas Sales, João Victor   |
+|                  Reunião de revisão                  |            Todos             | 23/11/2024 | 23/11/2024 |   23/11/2024   | 24/11/2024  |            Todos             |
+|                  Atualizar o pages                   |            Todos             | 23/11/2024 | 23/11/2024 |   23/11/2024   | 24/11/2024  |            Todos             |
+|                 Gravar apresentação                  |            Todos             | 24/11/2024 | 24/11/2024 |   24/11/2024   | 28/11/2024  |            Todos             |
+|           Apresentação do projeto etapa 2            |            Todos             | 28/11/2024 | 28/11/2024 |   28/11/2024   | 28/11/2024  |            Todos             |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -90,15 +90,16 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|            Tarefa             |               Responsáveis                |   Início   |    Fim     | Revisão Início |                Revisão Fim                 |   Revisor   |
-| :---------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: | :----------------------------------------: | :---------: |
-| Princípios gerais do projeto  |                Joao Victor                | 20/11/2024 | 22/11/2024 |   23/11/2024   |                 27/11/2024                 |             |
-|        Guia de estilo         |                João Victor                | 25/11/2024 | 26/11/2024 |   27/11/2024   |                 30/11/2024                 |             |
-| Características da plataforma |              Karolina Vieira              | 28/11/2024 | 29/11/2024 |   30/11/2024   |                 01/12/2024                 |             |
-|     Metas de usabilidade      |              Karolina Vieira              | 20/11/2024 | 22/11/2024 |   23/11/2024   |                 25/11/2024                 |             |
-|      Reunião de revisão       | Karolina Vieira, João Victor, Lucas Sales | 30/11/2024 | 30/11/2024 |   01/12/2024   |                 05/12/2024                 |             |
-|       Atualizar o pages       | Karolina Vieira, João Victor, Lucas Sales | 30/11/2024 | 30/11/2024 |   01/12/2024   |                 05/12/2024                 |             |
-|      Gravar apresentação      | Karolina Vieira, João Victor, Lucas Sales | 01/12/2024 | 01/12/2024 |   05/12/2024   | 05/12/2024  presentação do projeto etapa 3 | Lucas Sales | 05/12/2024 | 05/12/2024 | 05/12/2024 | 05/12/2024 |  |
+|             Tarefa              |        Responsáveis         |   Início   |    Fim     | Revisão Início | Revisão Fim |           Revisor           |
+| :-----------------------------: | :-------------------------: | :--------: | :--------: | :------------: | :---------: | :-------------------------: |
+| "Princípios gerais do projeto	" | Paola Lima, Karolina Vieira | 20/11/2024 | 22/11/2024 |   23/11/2024   | 27/11/2024  |  João Victor e Lucas Sales  |
+|         Guia de estilo          |            Todos            | 25/11/2024 | 26/11/2024 |   27/11/2024   | 30/11/2024  |            Todos            |
+|  Características da plataforma  |  Lucas Sales, João Victor   | 28/11/2024 | 29/11/2024 |   30/11/2024   | 01/12/2024  | Karolina Vieira, Paola Lima |
+|      Metas de usabilidade       |         Paola Lima          | 20/11/2024 | 22/11/2024 |   23/11/2024   | 25/11/2024  |       Karolina Vieira       |
+|       Reunião de revisão        |            Todos            | 30/11/2024 | 30/11/2024 |   01/12/2024   | 05/12/2024  |            Todos            |
+|        Atualizar o pages        |            Todos            | 30/11/2024 | 30/11/2024 |   01/12/2024   | 05/12/2024  |            Todos            |
+|       Gravar apresentação       |            Todos            | 01/12/2024 | 01/12/2024 |   05/12/2024   | 05/12/2024  |            Todos            |
+| Apresentação do projeto etapa 3 |            Todos            | 05/12/2024 | 05/12/2024 |   05/12/2024   | 05/12/2024  |            Todos            |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -110,16 +111,16 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                           Tarefa                           |               Responsáveis                |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :--------------------------------------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-|           Planejamento da avaliação - Storyboard           |                Joao Victor                | 05/12/2024 | 05/12/2024 |   06/12/2024   | 08/12/2024  |         |
-|       Planejamento da avaliação - Ánalise de Tarefas       |                João Victor                | 05/12/2024 | 05/12/2024 |   06/12/2024   | 08/12/2024  |         |
-|     Planejamento do relato dos resultados - Storyboard     |              Karolina Vieira              | 06/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |         |
-| Planejamento do relato dos resultados - Ánalise de Tarefas |              Karolina Vieira              | 06/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |         |
-|                      Entrega Parcial                       | Karolina Vieira, João Victor, Lucas Sales | 07/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |         |
-|                 Revisão da Entrega Parcial                 | Karolina Vieira, João Victor, Lucas Sales | 08/12/2024 | 08/12/2024 |   09/12/2024   | 10/12/2024  |         |
-|                       Revisão Final                        | Karolina Vieira, João Victor, Lucas Sales | 09/12/2024 | 09/12/2024 |   10/12/2024   |    2024     |         |
-|                          Entrega                           |                Lucas Sales                | 10/12/2024 | 10/12/2024 |   10/12/2024   | 10/12/2024  |         |
+|                           Tarefa                           |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim |     Revisor     |
+| :--------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :-------------: |
+|           Planejamento da avaliação - Storyboard           |   João Victor   | 05/12/2024 | 05/12/2024 |   06/12/2024   | 08/12/2024  |   Lucas Sales   |
+|       Planejamento da avaliação - Ánalise de Tarefas       |   Lucas Sales   | 05/12/2024 | 05/12/2024 |   06/12/2024   | 08/12/2024  |   João Victor   |
+|     Planejamento do relato dos resultados - Storyboard     | Karolina Vieira | 06/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |   Paola Lima    |
+| Planejamento do relato dos resultados - Ánalise de Tarefas |   Paola Lima    | 06/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  | Karolina Vieira |
+|                      Entrega Parcial                       |      Todos      | 07/12/2024 | 07/12/2024 |   08/12/2024   | 10/12/2024  |      Todos      |
+|                 Revisão da Entrega Parcial                 |      Todos      | 08/12/2024 | 08/12/2024 |   09/12/2024   | 10/12/2024  |      Todos      |
+|                       Revisão Final                        |      Todos      | 09/12/2024 | 09/12/2024 |   10/12/2024   | 10/12/2024  |      Todos      |
+|                          Entrega                           |   Lucas Sales   | 10/12/2024 | 10/12/2024 |   10/12/2024   | 10/12/2024  |      Todos      |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -131,17 +132,17 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                            Tarefa                            |               Responsáveis                |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :----------------------------------------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-|                      Analise de Tarefas                      |                Joao Victor                | 12/12/2024 | 13/12/2024 |   14/12/2024   | 16/12/2024  |         |
-|       Planejamento da avaliação do Protótipo de Papel        |                João Victor                | 14/12/2024 | 15/12/2024 |   16/12/2024   | 18/12/2024  |         |
-| Resultado do Planejamento da Avaliação do Protótipo de Papel |              Karolina Vieira              | 16/12/2024 | 17/12/2024 |   18/12/2024   | 20/12/2024  |         |
-|              StoryBoard - Relato dos Resultados              |              Karolina Vieira              | 18/12/2024 | 19/12/2024 |   20/12/2024   | 24/12/2024  |         |
-| Protótipo de Papel -  Planejamento do relato dos resultados  | Karolina Vieira, João Victor, Lucas Sales | 20/12/2024 | 23/12/2024 |   24/12/2024   | 28/12/2024  |         |
-|                       Entrega Parcial                        | Karolina Vieira, João Victor, Lucas Sales | 27/12/2024 | 27/12/2024 |   28/12/2024   | 03/01/2025  |         |
-|                  Revisão da Entrega Pacial                   | Karolina Vieira, João Victor, Lucas Sales | 28/12/2024 | 29/12/2024 |   03/01/2025   |    03025    |         |
-|                        Revisão Final                         |                Lucas Sales                | 03/01/2025 | 03/01/2025 |   04/01/2025   | 04/01/2025  |         |
-|                       Entrega Parcial                        |                Lucas Sales                | 04/01/2025 | 04/01/2025 |   04/01/2025   | 04/01/2025  |         |
+|                            Tarefa                            |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim |     Revisor     |
+| :----------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :-------------: |
+|                      Analise de Tarefas                      |   Lucas Sales   | 12/12/2024 | 13/12/2024 |   14/12/2024   | 16/12/2024  |   João Victor   |
+|       Planejamento da avaliação do Protótipo de Papel        |   Paola Lima    | 14/12/2024 | 15/12/2024 |   16/12/2024   | 18/12/2024  | Karolina Vieira |
+| Resultado do Planejamento da Avaliação do Protótipo de Papel |   Paola Lima    | 16/12/2024 | 17/12/2024 |   18/12/2024   | 20/12/2024  | Karolina Vieira |
+|              StoryBoard - Relato dos Resultados              | Karolina Vieira | 18/12/2024 | 19/12/2024 |   20/12/2024   | 24/12/2024  |   Paola Lima    |
+| Protótipo de Papel -  Planejamento do relato dos resultados  |   João Victor   | 20/12/2024 | 23/12/2024 |   24/12/2024   | 28/12/2024  |   Lucas Sales   |
+|                       Entrega Parcial                        |      Todos      | 27/12/2024 | 27/12/2024 |   28/12/2024   | 03/01/2025  |      Todos      |
+|                  Revisão da Entrega Pacial                   |      Todos      | 28/12/2024 | 29/12/2024 |   03/01/2025   | 03/01/2025  |      Todos      |
+|                        Revisão Final                         |      Todos      | 03/01/2025 | 03/01/2025 |   04/01/2025   | 04/01/2025  |      Todos      |
+|                       Entrega Parcial                        |      Todos      | 04/01/2025 | 04/01/2025 |   04/01/2025   | 04/01/2025  |      Todos      |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -154,13 +155,13 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                                Tarefa                                |               Responsáveis                |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :------------------------------------------------------------------: | :---------------------------------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-|     Planejamento do relato dos resultados do Protótipo de Papel      |                Joao Victor                | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  |         |
-| Planejamento de relato de resultados do protótipo de Alta Fidelidade |                João Victor                | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  |         |
-|      Planejamento da Avaliação do protótipo de alta fidelidade       |              Karolina Vieira              | 10/01/2025 | 11/01/2025 |   11/01/2025   | 12/01/2025  |         |
-|           Desenvolvimento do protótipo de alta fidelidade            |              Karolina Vieira              | 11/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  |         |
-|          Gravação da apresentação dos resultados da etapa 6          | Karolina Vieira, João Victor, Lucas Sales | 12/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  |         |
+|                                Tarefa                                |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim |     Revisor     |
+| :------------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :-------------: |
+|     Planejamento do relato dos resultados do Protótipo de Papel      |   Paola Lima    | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  | Karolina Vieira |
+| Planejamento de relato de resultados do protótipo de Alta Fidelidade |   Lucas Sales   | 08/01/2025 | 09/01/2025 |   09/01/2025   | 10/01/2025  |   João Victor   |
+|      Planejamento da Avaliação do protótipo de alta fidelidade       | Karolina Vieira | 10/01/2025 | 11/01/2025 |   11/01/2025   | 12/01/2025  |   Paola Lima    |
+|           Desenvolvimento do protótipo de alta fidelidade            |   Paola Lima    | 11/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  | Karolina Vieira |
+|          Gravação da apresentação dos resultados da etapa 6          |      Todos      | 12/01/2025 | 12/01/2025 |   12/01/2025   | 12/01/2025  |      Todos      |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -172,10 +173,11 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                                       Tarefa                                       |  Responsáveis   |   Início   |    Fim     | Revisão Início |                    Revisão Fim                     |     Revisor     |
-| :--------------------------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :------------------------------------------------: | :-------------: |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |   João Victor   | 13/01/2025 | 14/01/2025 |   15/01/2025   | 16/01/2025  elhora do protótipo de alta fidelidade | Karolina Vieira | 14/01/2025 | 15/01/2025 | 16/01/2025 | 16/01/2025 |  |
-|                 Gravação da apresentação dos resultados da etapa 6                 | Karolina Vieira | 16/01/2025 | 16/01/2025 |   16/01/2025   |                     16/01/2025                     |                 |
+|                                       Tarefa                                       | Responsáveis |   Início   |    Fim     | Revisão Início | Revisão Fim |   Revisor   |
+| :--------------------------------------------------------------------------------: | :----------: | :--------: | :--------: | :------------: | :---------: | :---------: |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Lucas Sales  | 13/01/2025 | 14/01/2025 |   15/01/2025   | 16/01/2025  | João Victor |
+|                      Melhora do protótipo de alta fidelidade                       |    Todos     | 14/01/2025 | 15/01/2025 |   16/01/2025   | 16/01/2025  |    Todos    |
+|                 Gravação da apresentação dos resultados da etapa 7                 |    Todos     | 16/01/2025 | 16/01/2025 |   16/01/2025   | 16/01/2025  |    Todos    |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -187,12 +189,12 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|                               Tarefa                               |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :----------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-|        Avaliando Resultado do protótipo de alta fidelidade         |   João Victor   | 17/01/2024 | 20/01/2024 |   20/01/2024   | 25/01/2024  |         |
-|             Aperfeiçoar o protótipo de alta fidelidade             | Karolina Vieira | 20/01/2024 | 25/01/2024 |    26/01/24    |  26/01/24   |         |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Karolina Vieira | 25/01/2024 |  26/01/24  |    26/01/24    |  26/01/24   |         |
-|                          Gravação etapa 8                          | Karolina Vieira |  26/01/24  |  26/01/24  |    26/01/24    |  26/01/24   |         |
+|                               Tarefa                               |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim |   Revisor   |
+| :----------------------------------------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :---------: |
+|        Avaliando Resultado do protótipo de alta fidelidade         |   João Victor   | 17/01/2024 | 20/01/2024 |   20/01/2024   | 25/01/2024  | Lucas Sales |
+|             Aperfeiçoar o protótipo de alta fidelidade             |      Todos      | 20/01/2024 | 25/01/2024 |    26/01/24    |  26/01/24   |    Todos    |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Karolina Vieira | 25/01/2024 |  26/01/24  |    26/01/24    |  26/01/24   | Paola Lima  |
+|                          Gravação etapa 8                          |      Todos      |  26/01/24  |  26/01/24  |    26/01/24    |  26/01/24   |    Todos    |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
@@ -204,10 +206,10 @@
 
 <div align="center" color="blue"><h3>Planejado</h3></div>
 
-|              Tarefa              |  Responsáveis   |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
-| :------------------------------: | :-------------: | :--------: | :--------: | :------------: | :---------: | :-----: |
-| Desenvolvimento do projeto final |   João Victor   | 27/01/2024 | 07/02/2024 |   07/02/2024   | 09/02/2024  |         |
-|      Gravação projeto final      | Karolina Vieira | 09/02/2024 | 09/02/2024 |   09/02/2024   | 09/02/2024  |         |
+|              Tarefa              | Responsáveis |   Início   |    Fim     | Revisão Início | Revisão Fim | Revisor |
+| :------------------------------: | :----------: | :--------: | :--------: | :------------: | :---------: | :-----: |
+| Desenvolvimento do projeto final |    Todos     | 27/01/2024 | 07/02/2024 |   07/02/2024   | 09/02/2024  |  Todos  |
+|      Gravação projeto final      |    Todos     | 09/02/2024 | 09/02/2024 |   09/02/2024   | 09/02/2024  |  Todos  |
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
