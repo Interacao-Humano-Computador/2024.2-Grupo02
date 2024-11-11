@@ -1,10 +1,10 @@
 # Defensoria Pública do Distrito Federal
 
-<p align="center"><img src="../../assets/images/dpdf.jpg" width="100%"></p>
+<p align="center"><img src="./assets/images/dpdf.jpg" width="100%"></p>
 
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
-| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |     Criação do Documento     |   [Lucas Sales](https://github.com/Lux-Sales)    |  [João Victor C. Nobre](https://github.com/Gam13)|
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
+| 06/11/2024 |        07/11/2024        |  1.0   | Criação do Documento | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
 
 ## Sobre o Projeto
 
