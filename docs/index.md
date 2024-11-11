@@ -1,6 +1,10 @@
 # Defensoria Pública do Distrito Federal
 
+<<<<<<< HEAD
 <p align="center"><img src="./assets/images/dpdf.jpg" width="100%"></p>
+=======
+<p align="center"><img src="../../assets/images/dpdf.jpg" width="100%"></p>
+>>>>>>> main
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
