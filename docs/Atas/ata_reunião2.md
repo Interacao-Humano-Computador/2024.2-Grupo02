@@ -1,7 +1,7 @@
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |          Descrição           |                   Autor                    |                Revisor                 |
-| :--------: | :----------------------: | :----: | :--------------------------: | :----------------------------------------: | :------------------------------------: |
-| 09/11/2024 |        09/11/2024        |  1.0   |     Criação do Documento     |[João Victor C. Nobre](https://github.com/Gam13)|[Lucas Sales](https://github.com/Lux-Sales)     |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                      Autor                       |                   Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------: | :-----------------------------------------: |
+| 09/11/2024 |        09/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) | [Lucas Sales](https://github.com/Lux-Sales) |
 
 
 # Reunião 09/11/2024
@@ -18,7 +18,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 **Tabela 1: Convocação**
 
 | Nome             | Presente |
-|------------------|----------|
+| ---------------- | -------- |
 | João Victor      | Sim      |
 | Karolina Vieira  | Sim      |
 | Lucas Sales      | Sim      |
@@ -36,12 +36,13 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 **Tabela 2: Compromissos**
 
-| N°  | Compromisso                                                      | Responsável     | Data    |
-|-----|------------------------------------------------------------------|-----------------|---------|
-| 1   | Subir videos no youtube                                          |    Lucas Sales  | 04/11   |
-| 2   | Especificar as atividades no cronograma com datas e responsáveis |       Todos     | 05/11   |
-| 3   | Cada um colocar no Pages o site avaliado com o PDF e o link	     |    Todos        | 05/11   |
-| 4   | Atualizar o site do pages para o da DPDF                         | Lucas Sales     | 05/11   |
+| N°  | Compromisso                                                      | Responsável | Data  |
+| --- | ---------------------------------------------------------------- | ----------- | ----- |
+| 1   | Subir videos no youtube                                          | Lucas Sales | 04/11 |
+| 2   | Especificar as atividades no cronograma com datas e responsáveis | Todos       | 05/11 |
+| 3   | Cada um colocar no Pages o site avaliado com o PDF e o link      | Todos       | 05/11 |
+| 4   | Atualizar o site do pages para o da DPDF                         | Lucas Sales | 05/11 |
 
 
-Você pode ver a versão em PDF [aqui](../assets/atas/DPDF_AtaReuniao_20241109_02.docx.pdf)
+Você pode ver a versão em PDF [aqui](../assets/atas/DPDF_AtaReuniao_20241109_02.docx.pdf)</br>
+E o vídeo da reunião [aqui](https://youtu.be/JYcHX3hlSbg)
