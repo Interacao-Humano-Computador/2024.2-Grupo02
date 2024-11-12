@@ -6,7 +6,7 @@ Artefatos realizados:
 <li>Lista de sites avaliados</li>
 <li>Site selecionado para o projeto da disciplina</li>
 <li>Ferramentas do projeto</li>
-<li>Processo de Design,</li>
+<li>Processo de Design</li>
 <li>Cronograma das atividades</li>
 </ol>
 
