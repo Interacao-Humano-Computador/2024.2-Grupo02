@@ -1,3 +1,9 @@
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |            Descrição            |                    Autor                    |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :----------------------------------------------: |
+| 10/11/2024 |        11/11/2024        |  1.0   |      Criação do Documento       | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
+| 12/11/2024 |        12/11/2024        |  1.1   | Adicionado histórico de revisão | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
+
 |            Etapas 1-3            |            Etapas 4-6            |               7-9                |
 | :------------------------------: | :------------------------------: | :------------------------------: |
 | <a href="#etapa1"> Etapa 01 </a> | <a href="#etapa4"> Etapa 04 </a> | <a href="#etapa7"> Etapa 07 </a> |
