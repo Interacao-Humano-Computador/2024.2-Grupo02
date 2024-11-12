@@ -4,10 +4,10 @@
 
 ## Histórico de Versão
 
-|    Data    | Data Prevista de Revisão | Versão | Descrição                     | Autor                                                               | Revisor                                         |
-|------------|--------------------------|--------|-------------------------------|---------------------------------------------------------------------|-------------------------------------------------|
-| 06/11/2024 | 07/11/2024               | 1.0    | Criação do Documento          | [Karolina Vieira](https://github.com/Karolina91)                    | [Paola Nascimento](https://github.com/paolaalim) |
-| 06/11/2024 | 10/11/2024               | 1.1    | Adicionado o histórico de versões | [Lucas Sales](https://github.com/Lux-Sales)                         | [João Victor C. Nobre](https://github.com/Gam13) |
+| Data       | Data Prevista de Revisão | Versão | Descrição                         | Autor                                            | Revisor                                          |
+| ---------- | ------------------------ | ------ | --------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| 06/11/2024 | 07/11/2024               | 1.0    | Criação do Documento              | [Karolina Vieira](https://github.com/Karolina91) | [Paola Nascimento](https://github.com/paolaalim) |
+| 06/11/2024 | 10/11/2024               | 1.1    | Adicionado o histórico de versões | [Lucas Sales](https://github.com/Lux-Sales)      | [João Victor C. Nobre](https://github.com/Gam13) |
 
 Início: 10:15 | Fim: 11:20
 
@@ -87,4 +87,5 @@ Tabela 1: Compromissos.
 
 
 Você pode ver a versão em PDF [aqui](../assets/atas/DPDF_AtaReuniao_20241102_01.docx.pdf)</br>
-E o vídeo da reunião [aqui](https://youtu.be/HkFzoXZ--7Q)
+E o vídeo da reunião [aqui](https://youtu.be/HkFzoXZ--7Q)<br/>
+_(Devido a problemas na gravação o áudio dos demais integrantes não foi gravado)_

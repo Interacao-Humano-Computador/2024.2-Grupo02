@@ -45,4 +45,5 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 
 Você pode ver a versão em PDF [aqui](../assets/atas/DPDF_AtaReuniao_20241109_02.docx.pdf)</br>
-E o vídeo da reunião [aqui](https://youtu.be/JYcHX3hlSbg)
+E o vídeo da reunião [aqui](https://youtu.be/JYcHX3hlSbg)<br/>
+_(Devido a problemas na gravação o áudio dos demais integrantes não foi gravado)_
