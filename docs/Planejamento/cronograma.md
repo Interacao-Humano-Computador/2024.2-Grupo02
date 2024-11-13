@@ -1,8 +1,13 @@
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |            Descrição            |                    Autor                    |                     Revisor                      |
-| :--------: | :----------------------: | :----: | :-----------------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 10/11/2024 |        11/11/2024        |  1.0   |      Criação do Documento       | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
-| 12/11/2024 |        12/11/2024        |  1.1   | Adicionado histórico de revisão | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
+|    Data    | Data Prevista de Revisão | Versão |                Descrição                |                      Autor                       |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :-------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| 10/11/2024 |        10/11/2024        |  1.0   |          Criação do Documento           |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   | Adicionado cronograma para etapas 2 e 3 |    [Paola Lima](https://github.com/paolaalim)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   | Adicionado cronograma para etapas 4 e 5 | [Karolina Vieira](https://github.com/Karolina91) | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   | Adicionado cronograma para etapas 6 e 7 |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   | Adicionado cronograma para etapas 8 e 9 |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 12/11/2024 |        12/11/2024        |  1.2   |     Adicionado histórico de revisão     |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 13/11/2024 |        13/11/2024        |  1.3   |  Adicionado participantes do artefato   |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
 
 |            Etapas 1-3            |            Etapas 4-6            |               7-9                |
 | :------------------------------: | :------------------------------: | :------------------------------: |
