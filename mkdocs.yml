@@ -50,6 +50,8 @@ nav:
     - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
     - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
     - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+  - Verificação:
+    - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
@@ -57,6 +59,8 @@ nav:
       - Políticas de Branchs: Contribuição/Politicas/Branch.md
       - Políticas de Commit: Contribuição/Politicas/Commit.md
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
+  - Apresentações:
+    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
     
 
 # =============================================
