@@ -1,9 +1,11 @@
 # Reunião 09/11/2024
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                      Autor                       |                   Revisor                   |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------: | :-----------------------------------------: |
-| 09/11/2024 |        09/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) | [Lucas Sales](https://github.com/Lux-Sales) |
+|    Data    | Data Prevista de Revisão | Versão |            Descrição             |                      Autor                       |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| 09/11/2024 |        09/11/2024        |  1.0   |       Criação do Documento       |    [Paola Lima](https://github.com/paolaalim)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.0   |         Adição no pages          | [João Victor C. Nobre](https://github.com/Gam13) |   [Lucas Sales](https://github.com/Lux-Sales)    |
+| 13/11/2024 |        13/11/2024        |  1.2   | Adição de participantes no pages |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
 
 
 Início: 10:15 | Fim: 11:42
