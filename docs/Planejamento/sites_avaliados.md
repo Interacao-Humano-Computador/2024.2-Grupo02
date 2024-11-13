@@ -1,10 +1,12 @@
 # Sites Avaliados
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |           Descrição            |                    Autor                    |                     Revisor                      |
-| :--------: | :----------------------: | :----: | :----------------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 06/11/2024 |        07/11/2024        |  1.0   |      Criação do Documento      | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
-| 10/11/2024 |        07/11/2024        |  1.1   | Adicionando heurística da DPDF | [Lucas Sales](https://github.com/Lux-Sales) | [João Victor C. Nobre](https://github.com/Gam13) |
+|    Data    | Data Prevista de Revisão | Versão |             Descrição             |                      Autor                       |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :-------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
+| 06/11/2024 |        07/11/2024        |  1.0   |       Criação do Documento        |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   |  Adicionando heurística da DPDF   |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 10/11/2024 |        10/11/2024        |  1.1   | Adicionando heurística do IDJovem |   [Lucas Sales](https://github.com/Lux-Sales)    | [João Victor C. Nobre](https://github.com/Gam13) |
+| 13/11/2024 |        13/11/2024        |  1.1   | Adicionando heurística do MeuINSS | [Karolina Vieira](https://github.com/Karolina91) | [João Victor C. Nobre](https://github.com/Gam13) |
 
 ## Introdução
 
