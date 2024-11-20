@@ -2,6 +2,10 @@ site_name: "Defensoria Pública do Distrito Federal"
 repo_url: https://github.com/interacao-humano-computador/2024.2-Grupo02/
 repo_name: "2024.2-Grupo02"
 
+
+plugins:
+    - search
+    - mermaid2
 markdown_extensions:
   - admonition
   - attr_list
@@ -9,8 +13,12 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - pymdownx.caret
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
   - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
@@ -61,7 +69,8 @@ nav:
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
   - Apresentações:
     - Apresentação etapa 1: Apresentacoes/apresentacao1.md
-    
+  - Análise de Requisitos:
+    - Perfil de Usuário: Analise/perfilUsuario.md
 
 # =============================================
 # Tutorial para adicionar novas páginas
