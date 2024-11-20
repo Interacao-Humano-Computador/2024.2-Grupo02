@@ -149,7 +149,7 @@ Com base nos resultados obtidos, observa-se que há uma maior familiaridade com 
 ---
 
 ## **Bibliografia**
-2. Simples Nacional (2022). Análise do Perfil do Usuário no Simples Nacional. Available at: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/perfilUsuario/ (Accessed: November 20, 2024).
+1. Simples Nacional (2022). Análise do Perfil do Usuário no Simples Nacional. Available at: https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/perfilUsuario/ (Accessed: November 20, 2024).
 2. Cooper, Alan (2007). *About Face 3: The Essentials of Interaction Design*. Wiley.
-
+3. Para acessar o arquivo completo da pesquisa clique [Aqui](https://docs.google.com/spreadsheets/d/1KDgxU9_wGdF_8FLalW0q-q1cQnLMDoOinu09ILayQg0/edit?usp=sharing)
 ---
