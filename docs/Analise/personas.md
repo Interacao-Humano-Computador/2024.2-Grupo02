@@ -13,25 +13,44 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 ### **Personas Primárias**  
 <center>
 <img src="../assets/personas/Carlos Marinho.jpg" width="400px"> 
-####  **Carlos Marinho**
+  
+###  **Carlos Marinho**
 </center>
+
 Com base na avaliação heurística descrita, o público-alvo do site da Defensoria Pública do Distrito Federal (DPDF) possui características que devem ser consideradas na criação de personas. Essas personas representam diferentes perfis de usuários que interagem com o site, refletindo suas dificuldades, necessidades e motivações.  
 
-- **Idade**: 42 anos  
-- **Sexo**: Masculino  
-- **Relacionamentos**: Casado, pai de dois filhos.  
-- **Local de Trabalho**: Trabalha como motorista de aplicativo e faz "bicos" para complementar a renda.  
-- **Dispositivos Usados**: Smartphone (principalmente), com internet limitada.  
-- **Afinidade com Tecnologia**: Baixa; utiliza o celular apenas para atividades essenciais.  
-- **Expectativas**:  
-  - Encontrar informações claras e diretas, sem necessidade de buscar em várias páginas.  
-  - Resolver questões de documentos ou serviços com rapidez.  
-- **Frustrações**:  
-  - Links quebrados e a falta de responsividade do site dificultam o uso.  
-  - Dificuldade para encontrar informações específicas sobre direitos trabalhistas.  
-- **Objetivos**: Regularizar sua situação tributária e acessar benefícios sociais.  
 
----
+| **Atributo**              | **Detalhes**                                                                                              |
+|----------------------------|----------------------------------------------------------------------------------------------------------|
+| **Idade**                 | 42 anos                                                                                                 |
+| **Sexo**                  | Masculino                                                                                               |
+| **Relacionamentos**       | Casado, pai de dois filhos                                                                               |
+| **Local de Trabalho**     | Trabalha como motorista de aplicativo e faz "bicos" para complementar a renda                           |
+| **Dispositivos Usados**   | Smartphone (principalmente), com internet limitada                                                      |
+| **Afinidade com Tecnologia** | Baixa; utiliza o celular apenas para atividades essenciais                                             |
+| **Expectativas**          | - Encontrar informações claras e diretas, sem necessidade de buscar em várias páginas                   |
+|                            | - Resolver questões de documentos ou serviços com rapidez                                              |
+| **Frustrações**           | - Links quebrados e a falta de responsividade do site dificultam o uso                                   |
+|                            | - Dificuldade para encontrar informações específicas sobre direitos trabalhistas                       |
+| **Objetivos**             | Regularizar sua situação tributária e acessar benefícios sociais                                        |
+
+## **Maria Oliveira**
+<center>
+<img src="../assets/personas/Maria.jpg" width="400px"> 
+</center>
+
+| **Atributo**              | **Detalhes**                                                                                               |
+|----------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Idade**                 | 45 anos                                                                                                  |
+| **Sexo**                  | Feminino                                                                                                 |
+| **Relacionamentos**       | Casada, mãe de um filho                                                                                  |
+| **Local de Trabalho**     | Auxiliar administrativo                                                                                  |
+| **Dispositivos Usados**   | Computador, com conexão estável                                                                          |
+| **Afinidade com Tecnologia** | Moderada, familiarizada com pacotes Office                                                              |
+| **Expectativas**          | Encontrar informações claras e atualizadas que confirmem que sua solicitação foi recebida e está em processamento |
+| **Frustrações**           | O sistema de acompanhamento é confuso, com menus pouco intuitivos e informações espalhadas              |
+|                            | Mesmo após localizar a área correta, o status da solicitação apresenta mensagens genéricas, sem detalhes específicos sobre o andamento do processo ou prazos estimados |
+| **Objetivos**             | Acompanhar a resposta de uma solicitação                                                                 |
 
 ### **Personas Secundárias**
 
