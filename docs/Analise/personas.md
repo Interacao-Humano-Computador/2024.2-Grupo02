@@ -41,7 +41,7 @@ Com base na avaliação heurística descrita, o público-alvo do site da Defenso
 
 | **Atributo**              | **Detalhes**                                                                                               |
 |----------------------------|-----------------------------------------------------------------------------------------------------------|
-| **Idade**                 | 42 anos                                                                                                  |
+| **Idade**                 | 45 anos                                                                                                  |
 | **Sexo**                  | Feminino                                                                                                 |
 | **Relacionamentos**       | Casada, mãe de um filho                                                                                  |
 | **Local de Trabalho**     | Auxiliar administrativo                                                                                  |
