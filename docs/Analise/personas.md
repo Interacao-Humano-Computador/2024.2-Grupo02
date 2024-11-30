@@ -32,6 +32,24 @@ Com base na avaliação heurística descrita, o público-alvo do site da Defenso
 - **Objetivos**: Regularizar sua situação tributária e acessar benefícios sociais.  
 
 ---
+<center>
+<img src="docs/assets/personas/Maria.jpg" width="400px"> 
+  
+# *Maria Oliveira*
+</center>
+
+| **Atributo**              | **Detalhes**                                                                                               |
+|----------------------------|-----------------------------------------------------------------------------------------------------------|
+| **Idade**                 | 42 anos                                                                                                  |
+| **Sexo**                  | Feminino                                                                                                 |
+| **Relacionamentos**       | Casada, mãe de um filho                                                                                  |
+| **Local de Trabalho**     | Auxiliar administrativo                                                                                  |
+| **Dispositivos Usados**   | Computador, com conexão estável                                                                          |
+| **Afinidade com Tecnologia** | Moderada, familiarizada com pacotes Office                                                              |
+| **Expectativas**          | Encontrar informações claras e atualizadas que confirmem que sua solicitação foi recebida e está em processamento |
+| **Frustrações**           | O sistema de acompanhamento é confuso, com menus pouco intuitivos e informações espalhadas              |
+|                            | Mesmo após localizar a área correta, o status da solicitação apresenta mensagens genéricas, sem detalhes específicos sobre o andamento do processo ou prazos estimados |
+| **Objetivos**             | Acompanhar a resposta de uma solicitação                                                                 |
 
 ### **Personas Secundárias**
 
