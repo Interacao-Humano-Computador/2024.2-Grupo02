@@ -29,7 +29,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada
 
 ### Tarefa: Utilizar o Chatbot para Assistência
 
-![Texto Alternativo](caminho/para/a/imagem.extensao)
+![HTA Chatbot](../assets/images/HTA-Chatbot.png)
 
 
 ## Conclusão
