@@ -70,3 +70,6 @@ Facilitar o acesso de Carlos às informações gerais e específicas sobre servi
 - Problemas técnicos no chatbot, como respostas erradas ou incompletas.
 - Comportamento de digitação contínua do chatbot sem resposta.
 - Links quebrados ou redirecionamentos incorretos dentro das respostas do chatbot.
+
+## Análise
+Carlos enfrenta dificuldades significativas ao usar o chatbot do site da DPDF, que fornece informações incorretas e incompletas, e apresenta comportamento de digitação contínua sem resposta. Links quebrados e uma interface confusa agravam a frustração. Esses problemas diminuem a confiança no sistema e tornam a navegação ineficiente, evidenciando a necessidade de melhorias urgentes no banco de dados de respostas e na interface do chatbot para garantir uma experiência mais satisfatória e intuitiva.
