@@ -1,4 +1,4 @@
-### Cenário 001 - Reescrito: Navegação no Site da Defensoria Pública para Resolver Conflito Patrimonial  
+### Cenário 001 - Navegação no Site da Defensoria Pública para Resolver Conflito Patrimonial  
 
 #### **Título**  
 Desafios na Navegação para Agendamento de Atendimento sobre Dívida de Aluguel  
