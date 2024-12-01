@@ -27,10 +27,10 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 | **Local de Trabalho**     | Trabalha como motorista de aplicativo e faz "bicos" para complementar a renda                           |
 | **Dispositivos Usados**   | Smartphone (principalmente), com internet limitada                                                      |
 | **Afinidade com Tecnologia** | Baixa; utiliza o celular apenas para atividades essenciais                                             |
-| **Expectativas**          | - Encontrar informações claras e diretas, sem necessidade de buscar em várias páginas                   |
-|                            | - Resolver questões de documentos ou serviços com rapidez                                              |
-| **Frustrações**           | - Links quebrados e a falta de responsividade do site dificultam o uso                                   |
-|                            | - Dificuldade para encontrar informações específicas sobre direitos trabalhistas                       |
+| **Expectativas**          | Encontrar informações claras e diretas, sem necessidade de buscar em várias páginas                   |
+|                            |  Resolver questões de documentos ou serviços com rapidez                                              |
+| **Frustrações**           |  Links quebrados e a falta de responsividade do site dificultam o uso                                   |
+|                            |  Dificuldade para encontrar informações específicas sobre direitos trabalhistas                       |
 | **Objetivos**             | Regularizar sua situação tributária e acessar benefícios sociais                                        |
 
 ## **Ana Oliveira**
@@ -53,6 +53,27 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 
 ### **Personas Secundárias**
 
+## **Cecília Souza**
+<center>
+<img src="../assets/images/Cecilia.jpg" width="400px"> 
+</center>
+
+| **Atributo**              | **Detalhes**                                                                              |
+|---------------------------|-------------------------------------------------------------------------------------------|
+| **Idade**                 | 60 anos                                                                                  |
+| **Sexo**                  | Feminino                                                                                 |
+| **Relacionamentos**       | Casada, mãe de quatro filhos                                                                                 |
+| **Local de Trabalho**    | Aposentada                                                                                |
+| **Dispositivos Usados**  | Smartphone, com acesso à internet limitada                                   |
+| **Afinidade com Tecnologia** | Baixa; utiliza a tecnologia apenas para atividades essenciais                           |
+| **Expectativas**         | Encontrar informações simples e rápidas, sem complicação                               |
+|                           | Acessar benefícios sociais e resolver questões relacionadas à aposentadoria             |
+| **Frustrações**          | Sites com linguagem técnica ou difícil de entender                                      |
+|                           | Navegação complicada e informações pouco claras                                        |
+| **Objetivos**            |  Fazer uma denúncia online        |
+
+
+Se precisar de mais alterações ou informações, é só avisar!
 ---
 
 ### **Anti-Persona** 
