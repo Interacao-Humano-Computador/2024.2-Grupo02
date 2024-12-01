@@ -54,7 +54,7 @@ Isso não só aumenta a carga de trabalho, mas também desestimula o uso do sist
 Envolve a uniformidade nos elementos de interface e interação, garantindo que o comportamento seja previsível. Por exemplo, botões semelhantes devem ter aparência e funcionamento idênticos, aumentando a confiança do usuário.
 
 ### **Análise**
-No site da Defensoria Pública, conforme ilustrado na imagem, foi identificada uma falha de design relacionada à funcionalidade da barra de pesquisa. Quando acionada, a área de pesquisa se sobrepõe aos demais atributos do menu, dificultando o acesso às outras opções. Esse problema pode gerar frustração no usuário, especialmente quando ele tenta navegar rapidamente entre diferentes seções. Para evitar essa sobreposição, é essencial ajustar o layout, garantindo que a barra de pesquisa funcione de maneira eficiente sem comprometer a visibilidade ou acessibilidade dos
+No site da Defensoria Pública, conforme ilustrado na imagem, foi identificada uma falha de design relacionada à funcionalidade da barra de pesquisa. Quando acionada, a área de pesquisa se sobrepõe aos demais atributos do menu, dificultando o acesso às outras opções. Esse problema pode gerar frustração no usuário, especialmente quando ele tenta navegar rapidamente entre diferentes seções. Para evitar essa sobreposição, é essencial ajustar o layout, garantindo que a barra de pesquisa funcione de maneira eficiente sem comprometer a visibilidade ou acessibilidade dos outros elementos do menu.
 
 <center>
 <img src="../assets/images/padronização.png" > 
