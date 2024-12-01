@@ -56,3 +56,13 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada
 1. Caso a seção "Acompanhamento de Solicitações" esteja disponível no menu principal, utilize o **Method 1**.
 2. Caso não encontre a seção no menu, utilize a barra de busca, seguindo o **Method 2**.
 3. Para registrar informações, escolha entre capturar a tela ou anotar os detalhes relevantes, dependendo da conveniência e recursos disponíveis.
+
+   ## Diagrama HTA (Hierarchical Task Analysis)
+
+### Tarefa: Acompanhar a Resposta de uma Solicitação
+
+![Solicitação](../assets/images/HTA.drawio.png)
+
+## Conclusão
+A aplicação das metodologias GOMS e HTA na análise de tarefas do site da Defensoria Pública do Distrito Federal (DPDF) evidencia os passos essenciais para que os usuários alcancem seus objetivos, como acessar informações jurídicas e requisitar assistência legal. Essa abordagem não apenas descreve as ações realizadas pelos usuários, mas também aponta possíveis melhorias na usabilidade do site. A adoção de sugestões fundamentadas nessa análise pode melhorar consideravelmente a experiência do usuário, tornando o site mais prático e funcional.
+
