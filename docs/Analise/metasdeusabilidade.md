@@ -12,7 +12,7 @@ As metas de usabilidade deste projeto foram definidas com base nos fatores de qu
 
 ## Segurança
 **Concerne à proteção contra erros e recuperação fácil quando estes ocorrem.**  
-**Meta Aplicada:** Implementar mensagens de erro claras e opções de recuperação que orientem o usuário a corrigir erros rapidamente, como na inserção de dados em formulários ou em consultas de documentos.
+**Meta Aplicada:** Implementar mensagens de erro claras e opções de recuperação que orientem o usuário a corrigir erros rapidamente, assim como mecanismos que permitam ao usuário cancelar ações em andamento e lidar com situações como links quebrados, páginas que não carregam ou redirecionamentos inesperados e garantir que o usuário sempre tenha acesso ao menu principal ou a uma opção clara para retornar à página inicial, evitando situações em que fique "preso" em partes do site sem saída evidente.
 
 ## Facilidade de Aprendizado
 **Refere-se ao esforço necessário para o usuário aprender a usar o sistema.**  
