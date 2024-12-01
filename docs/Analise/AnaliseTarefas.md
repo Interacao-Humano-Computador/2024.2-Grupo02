@@ -1,107 +1,129 @@
-# Análise de Tarefas para o Site da Defensoria Pública do Distrito Federal (DPDF)
+# **Análise de Tarefas para o Site da Defensoria Pública do Distrito Federal (DPDF)**
 
-## Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
+## **Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)**
 
-A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada para analisar o desempenho dos usuários ao realizarem tarefas em sistemas computacionais. Aqui, detalhamos a análise GOMS para algumas das principais tarefas realizadas no site da DPDF.
-
-### Tarefa: Acompanhar a Resposta de uma Solicitação
-# Análise GOMS: Verificar o status de uma solicitação no site da Defensoria Pública
-
-## **Goal 0**: Verificar o status de uma solicitação no site da Defensoria Pública
-
-### **Method 1**: Realizar os passos necessários para acessar e consultar o status da solicitação.
+A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada para detalhar as ações necessárias para concluir tarefas no site da DPDF. Abaixo, apresentamos a análise de tarefas realizadas no site:
 
 ---
 
-## **Goal 1**: Conectar-se à rede Wi-Fi
-- **OP 1.1**: Ligar o computador.
-- **OP 1.2**: Conectar a rede Wi-Fi desejada.
+### **Tarefa 1: Acompanhar a Resposta de uma Solicitação**
+
+#### **Goal 0:** Verificar o status de uma solicitação no site da Defensoria Pública
+
+#### **Method 1:** Passos para acessar e consultar o status da solicitação
+
+##### **Goal 1:** Conectar-se à rede Wi-Fi
+- **OP 1.1:** Ligar o computador.
+- **OP 1.2:** Conectar à rede Wi-Fi desejada.
+
+##### **Goal 2:** Acessar o site da Defensoria Pública
+- **OP 2.1:** Abrir o navegador de internet (ex.: Google Chrome).
+- **OP 2.2:** Digitar o endereço do site.
+- **OP 2.3:** Pressionar *Enter* para carregar o site.
+
+##### **Goal 3:** Localizar a área de acompanhamento de solicitações
+###### **Method 1:** Usar o menu principal do site
+- **OP 3.1:** Navegar pelo menu principal.
+- **OP 3.2:** Identificar e clicar na seção "Acompanhamento de Solicitações".
+
+###### **Method 2:** Usar a barra de busca
+- **OP 3.3:** Localizar a barra de busca no site.
+- **OP 3.4:** Digitar "Acompanhamento de Solicitações" e pressionar *Enter*.
+- **OP 3.5:** Analisar os resultados e clicar no link apropriado.
+
+##### **Goal 4:** Verificar o status da solicitação
+- **OP 4.1:** Inserir as informações solicitadas (ex.: número do protocolo ou CPF).
+- **OP 4.2:** Clicar no botão para consultar o status.
+- **OP 4.3:** Aguardar o carregamento da página com as informações.
+
+##### **Goal 5:** Concluir a verificação
+- **OP 5.1:** Ler e interpretar as informações apresentadas.
+- **OP 5.2:** Capturar a tela ou anotar os detalhes relevantes.
 
 ---
 
-## **Goal 2**: Acessar o site da Defensoria Pública
-- **OP 2.1**: Abrir o navegador de internet (ex.: Google Chrome).
-- **OP 2.2**: Digitar o endereço do site na barra de busca ou clicar no link nos favoritos.
-- **OP 2.3**: Pressionar *Enter* para carregar o site.
+### **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
+<center>
+<img src="../assets/images/HTA.drawio.png"><br>
+*Figura 1 - Diagrama HTA da tarefa "Acompanhar a Resposta de uma Solicitação"*
+</center>
 
 ---
 
-## **Goal 3**: Localizar a área de acompanhamento de solicitações
+### **Tarefa 2: Utilizar o Chatbot para Assistência**
 
-### **Method 1**: Usar o menu principal do site
-- **OP 3.1**: Navegar pelo menu principal.
-- **OP 3.2**: Identificar e clicar na seção "Acompanhamento de Solicitações".
+#### **Goal 0:** Utilizar o chatbot para assistência
 
-### **Method 2**: Usar a barra de busca (caso não encontre a seção no menu)
-- **OP 3.3**: Localizar a barra de busca no site.
-- **OP 3.4**: Digitar "Acompanhamento de Solicitações" e pressionar *Enter*.
-- **OP 3.5**: Analisar os resultados e clicar no link apropriado.
+#### **Method 1:** Interagir com o chatbot para obter assistência
 
----
+##### **Goal 1:** Iniciar a interação com o chatbot
+- **OP 1.1:** Deslocar o cursor até o ícone do chatbot.
+- **OP 1.2:** Clicar no ícone para abrir a janela de chat.
 
-## **Goal 4**: Verificar o status da solicitação
-- **OP 4.1**: Inserir as informações solicitadas (ex.: número do protocolo ou CPF).
-- **OP 4.2**: Clicar no botão para consultar o status.
-- **OP 4.3**: Aguardar o carregamento da página com as informações.
+##### **Goal 2:** Escolher a opção desejada entre as alternativas apresentadas
+- **OP 2.1:** Clicar em uma das opções apresentadas pelo chatbot.
 
----
+##### **Goal 3:** Navegar pelo chatbot
+- **OP 3.1:** Clicar no botão "Voltar" para retornar ao menu anterior.
+- **OP 3.2:** Clicar no botão "Menu Principal" para voltar às opções iniciais.
 
-## **Goal 5**: Concluir a verificação
-- **OP 5.1**: Ler e interpretar as informações apresentadas sobre o andamento da solicitação.
-- **OP 5.2**: Capturar a tela ou anotar os detalhes relevantes para registro.
+##### **Goal 4:** Obter a resposta final
+- **OP 4.1:** Ler as instruções fornecidas ou clicar no link redirecionado.
 
 ---
 
-## **Regras de Seleção**
-1. Caso a seção "Acompanhamento de Solicitações" esteja disponível no menu principal, utilize o **Method 1**.
-2. Caso não encontre a seção no menu, utilize a barra de busca, seguindo o **Method 2**.
-3. Para registrar informações, escolha entre capturar a tela ou anotar os detalhes relevantes, dependendo da conveniência e recursos disponíveis.
-
-   ## Diagrama HTA (Hierarchical Task Analysis)
-
-### Tarefa: Acompanhar a Resposta de uma Solicitação
-
-![Solicitação](../assets/images/HTA.drawio.png)
-
-## Conclusão
-A aplicação das metodologias GOMS e HTA na análise de tarefas do site da Defensoria Pública do Distrito Federal (DPDF) evidencia os passos essenciais para que os usuários alcancem seus objetivos, como acessar informações jurídicas e requisitar assistência legal. Essa abordagem não apenas descreve as ações realizadas pelos usuários, mas também aponta possíveis melhorias na usabilidade do site. A adoção de sugestões fundamentadas nessa análise pode melhorar consideravelmente a experiência do usuário, tornando o site mais prático e funcional.
+### **Diagrama HTA – Utilizar o Chatbot**
+<center>
+<img src="../assets/images/HTA-Chatbot.png"><br>
+*Figura 2 - Diagrama HTA da tarefa "Utilizar o Chatbot para Assistência"*
+</center>
 
 ---
 
-# Análise de Tarefas para o Site da Defensoria Pública do Distrito Federal (DPDF)
+### **Tarefa 3: Adquirir e Preencher o Formulário para Voluntariado**
 
-## Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
+#### **Goal 0:** Participar como voluntário na DPDF
 
-A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada para analisar o desempenho dos usuários ao realizarem tarefas em sistemas computacionais. Aqui, detalhamos a análise GOMS para algumas das principais tarefas realizadas no site da DPDF.
+#### **Method 1:** Adquirir e preencher o formulário de voluntariado
 
-### Tarefa: Utilizar o Chatbot para Assistência
+##### **Goal 1:** Acessar o site
+- **OP 1.1:** Verificar a conexão de internet.
+- **OP 1.2:** Acessar a página principal da DPDF.
 
-#### Goal 0: Utilizar o chatbot para assistência
+##### **Goal 2:** Acessar a área correspondente para voluntariado
+- **OP 2.1:** Navegar até a aba de "Estágios ou Colaboradores".
+- **OP 2.2:** Selecionar "Serviços Voluntários Não Remunerados".
 
-#### Method 1: Interagir com o chatbot para obter assistência
+##### **Goal 3:** Consultar os requisitos para o processo
+- **OP 3.1:** Ler os documentos necessários.
+- **OP 3.2:** Recolher os documentos.
 
-##### Goal 1: Iniciar a interação com o chatbot
-- **OP 1.1:** Deslocar o cursor do mouse até o ícone do chatbot na parte inferior direita da tela
-- **OP 1.2:** Clicar no ícone do chatbot para abrir a janela de chat
+##### **Goal 4:** Contatar o gerente de voluntariado
+- **OP 4.1:** Localizar os contatos do gerente na página.
+- **OP 4.2:** Solicitar informações e orientações.
 
-##### Goal 2: Escolher a opção desejada entre as alternativas apresentadas
-- **OP 2.1:** Clicar em uma das opções apresentadas pelo chatbot 
+##### **Goal 5:** Preencher os formulários
+###### **Method 1:** Assinatura Digital
+- **OP 5.1.1:** Acessar e preencher os formulários online.
+- **OP 5.1.2:** Assinar digitalmente.
 
-##### Goal 3: Voltar ou navegar pelo chatbot
-- **OP 3.1:** Clicar no botão "Voltar" para retornar ao menu anterior do chatbot
-- **OP 3.2:** Clicar no botão "Menu Principal" para voltar à tela inicial de opções do chatbot
+###### **Method 2:** Assinatura Física
+- **OP 5.2.1:** Imprimir os formulários.
+- **OP 5.2.2:** Assinar fisicamente.
 
-##### Goal 4: Obter a resposta final do chatbot
-- **OP 4.1:** Ler a resposta final com instruções fornecidas ou um link clicável para redirecionamento
-- **OP 4.2:** Clicar no link para redirecionamento
+##### **Goal 6:** Concluir o envio
+- **OP 6.1:** Submeter os documentos preenchidos.
+- **OP 6.2:** Aguardar a resposta.
 
-## Diagrama HTA (Hierarchical Task Analysis)
+---
 
-### Tarefa: Utilizar o Chatbot para Assistência
+### **Diagrama HTA – Adquirir e Preencher Formulário para Voluntariado**
+<center>
+<img src="../assets/images/Voluntario.drawio.png"><br>
+*Figura 3 - Diagrama HTA da tarefa "Adquirir e Preencher o Formulário para Voluntariado"*
+</center>
 
-![HTA Chatbot](../assets/images/HTA-Chatbot.png)
+---
 
-
-## Conclusão
-
-A análise de tarefas utilizando GOMS e HTA para o site da Defensoria Pública do Distrito Federal (DPDF) destaca os passos necessários para que os usuários atinjam seus objetivos, como consultar informações jurídicas e solicitar assistência jurídica. Esta abordagem não apenas detalha as ações realizadas, mas também identifica áreas potenciais para melhorias na usabilidade do site. A implementação de recomendações baseadas nesta análise pode significativamente aprimorar a experiência do usuário, tornando o site mais intuitivo e eficiente.
+## **Conclusão**
+A aplicação das metodologias **GOMS** e **HTA** para o site da DPDF detalha os processos envolvidos nas principais tarefas, identificando áreas para melhorias na navegação e acessibilidade. Com base nessa análise, recomenda-se aprimorar a interface do menu principal, otimizar a barra de busca e simplificar o acesso às informações para melhorar a experiência do usuário.
