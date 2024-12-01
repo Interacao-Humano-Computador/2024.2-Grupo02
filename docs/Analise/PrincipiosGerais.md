@@ -16,7 +16,10 @@ Refere-se à necessidade de o sistema se alinhar às expectativas e ao modelo me
 ### **Análise**
 O site deve refletir a lógica natural das ações do mundo real, empregando linguagem clara e familiar. Por exemplo, ao acessar o menu principal, o usuário espera encontrar termos como "Atendimento", "Serviços Jurídicos" ou "Contato". No entanto, o site da Defensoria Pública apresenta menus que não são autoexplicativos, como “Sistemas Internos”, dificultando a navegação de usuários leigos.  
 
+<center>
+<img src="../assets/images/menu.png" > 
 
+</center>
 
 ---
 
@@ -26,7 +29,10 @@ Busca reduzir a complexidade das tarefas, dividindo-as em etapas claras e elimin
 ### **Análise**
 A realização de tarefas deve ser direta e sem complicações desnecessárias. Apesar de o site apresentar um formulário de solicitação de atendimento simplificado, faltam instruções claras para o preenchimento.  
 
+<center>
+<img src="../assets/images/Formulario.png" > 
 
+</center>
 
 ---
 
@@ -36,7 +42,10 @@ Este princípio enfatiza que o sistema deve oferecer ao usuário liberdade para 
 ### **Análise**
 O sistema deve permitir ao usuário corrigir ações ou retornar a etapas anteriores sem dificuldades. Atualmente, ao preencher um formulário, não há uma opção clara para salvar rascunhos ou desfazer alterações.  
 
+<center>
+<img src="../assets/images/erro.png" > 
 
+</center>
 
 ---
 
