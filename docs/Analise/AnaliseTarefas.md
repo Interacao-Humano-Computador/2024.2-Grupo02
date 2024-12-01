@@ -43,10 +43,8 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 ---
 
 ### **Diagrama HTA – Acompanhar a Resposta de uma Solicitação**
-<center>
-<img src="../assets/images/HTA.drawio.png"><br>
-*Figura 1 - Diagrama HTA da tarefa "Acompanhar a Resposta de uma Solicitação"*
-</center>
+
+![Solicitação](../assets/images/HTA.drawio.png)
 
 ---
 
@@ -67,13 +65,54 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 - **OP 3.1:** Clicar no botão "Voltar" para retornar ao menu anterior.
 - **OP 3.2:** Clicar no botão "Menu Principal" para voltar às opções iniciais.
 
-##### Goal 4: Obter a resposta final do chatbot
-- **OP 4.1:** Ler a resposta final com instruções fornecidas ou um link clicável para redirecionamento
-- **OP 4.2:** Clicar no link para redirecionamento
+##### **Goal 4:** Obter a resposta final
+- **OP 4.1:** Ler as instruções fornecidas ou clicar no link redirecionado.
 
-## Diagrama HTA (Hierarchical Task Analysis)
+---
 
-### Tarefa: Utilizar o Chatbot para Assistência
+### **Diagrama HTA – Utilizar o Chatbot**
 
 ![HTA Chatbot](../assets/images/HTA-Chatbot.png)
 
+---
+
+### **Tarefa 3: Adquirir e Preencher o Formulário para Voluntariado**
+
+#### **Goal 0:** Participar como voluntário na DPDF
+
+#### **Method 1:** Adquirir e preencher o formulário de voluntariado
+
+##### **Goal 1:** Acessar o site
+- **OP 1.1:** Verificar a conexão de internet.
+- **OP 1.2:** Acessar a página principal da DPDF.
+
+##### **Goal 2:** Acessar a área correspondente para voluntariado
+- **OP 2.1:** Navegar até a aba de "Estágios ou Colaboradores".
+- **OP 2.2:** Selecionar "Serviços Voluntários Não Remunerados".
+
+##### **Goal 3:** Consultar os requisitos para o processo
+- **OP 3.1:** Ler os documentos necessários.
+- **OP 3.2:** Recolher os documentos.
+
+##### **Goal 4:** Contatar o gerente de voluntariado
+- **OP 4.1:** Localizar os contatos do gerente na página.
+- **OP 4.2:** Solicitar informações e orientações.
+
+##### **Goal 5:** Preencher os formulários
+###### **Method 1:** Assinatura Digital
+- **OP 5.1.1:** Acessar e preencher os formulários online.
+- **OP 5.1.2:** Assinar digitalmente.
+
+###### **Method 2:** Assinatura Física
+- **OP 5.2.1:** Imprimir os formulários.
+- **OP 5.2.2:** Assinar fisicamente.
+
+##### **Goal 6:** Concluir o envio
+- **OP 6.1:** Submeter os documentos preenchidos.
+- **OP 6.2:** Aguardar a resposta.
+
+---
+
+### **Diagrama HTA – Adquirir e Preencher Formulário para Voluntariado**
+
+![HTA Voluntário](../assets/images/Voluntario.drawio.png)

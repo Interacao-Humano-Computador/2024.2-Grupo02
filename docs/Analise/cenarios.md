@@ -1,224 +1,62 @@
-### Cenário 001 - Navegação no Site da Defensoria Pública para Resolver Conflito Patrimonial  
 
-#### **Título**  
-Desafios na Navegação para Agendamento de Atendimento sobre Dívida de Aluguel  
 
-#### **Objetivo**  
-Garantir que Carlos Marinho consiga agendar atendimento de forma simples e eficiente para resolver questões de dívida de aluguel, evitando despejo.  
+### **Cenário - [Título do Caso]**
 
-#### **Contexto**  
-- **Local**: Casa de Carlos Marinho, utilizando seu smartphone.  
-- **Tempo**: Noite, após um longo dia de trabalho, com internet móvel limitada.  
-- **Pré-condição**: O site da Defensoria Pública precisa ser funcional, responsivo e intuitivo, projetado para atender usuários com pouca experiência digital.  
+| **Cenário**  | **[Número do Cenário]**                                                                                                      |
+|:------------:|:------------------------------------------------------------------------------------------------------------------------------|
+| **Título**   | [Título descritivo do caso]                                                                                                   |
+| **Objetivo** | [Objetivo principal do cenário, ou seja, o que o ator ou usuário deseja alcançar no contexto da interação]                    |
+| **Contexto** | **Local**: [Onde o ator está, por exemplo: em casa, no trabalho, na escola, etc.]<br>**Tempo**: [Momento em que ocorre a interação, como manhã, tarde ou noite, ou mesmo um período mais longo]<br>**Pré-condição**: [O que precisa estar em ordem para que o cenário aconteça, como requisitos técnicos ou condições necessárias para a realização da tarefa] |
+| **Atores**   | [Quem são os atores envolvidos, detalhando as características principais dos usuários, como nível de experiência, conhecimento, etc.] |
+| **Recursos** | [Ferramentas ou elementos que são necessários para a execução do caso, como dispositivos, conexões, sistemas, entre outros]   |
+| **Episódios**| [Passos ou ações que ocorrem sequencialmente para atingir o objetivo, começando com a ação inicial e detalhando o processo até o resultado final.] |
+| **Restrição**| [Fatores que limitam a execução do caso, como falta de acesso à internet, dispositivos com problemas, etc.]                   |
+| **Exceção**  | [Possíveis falhas ou exceções que podem ocorrer durante o processo, como erros de sistema, entradas inválidas ou falta de dados relevantes.]  |
 
-#### **Atores**  
-- **Carlos Marinho**: Usuário primário, com baixa afinidade tecnológica e alta necessidade de informações rápidas.  
-- **Site da DPDF**: Ferramenta que Carlos acessa para buscar informações e realizar o agendamento.  
 
-#### **Recursos**  
-- Smartphone com conexão móvel limitada.  
-- Interface do site da DPDF, incluindo funcionalidades como "Defesa do Patrimônio", "Agendamento Online" e canais alternativos de contato (ex.: WhatsApp).  
 
----
+### **Cenário 001 - Navegação no Site da Defensoria Pública para Resolver Conflito Patrimonial**  
 
-### **Fluxo de Interação**
-
-#### **1. Acesso ao Site**  
-Carlos acessa o site da DPDF pelo navegador do celular, buscando informações sobre o agendamento para assistência com sua dívida de aluguel.  
-
-#### **2. Primeira Barreira: Interface Complexa**  
-- O site não é completamente responsivo: menus são pequenos e difíceis de clicar, especialmente em um celular de tela limitada.  
-- Textos pouco legíveis dificultam a compreensão, causando frustração inicial.  
-
-#### **3. Tentativa de Busca por Informações**  
-- Carlos tenta procura algo como "dívida de aluguel" ou "despejo" usando a barra de pesquisa, mas percebe que o site não possui essa funcionalidade.  
-- Ele tenta usar o chatbot, mas este não permite perguntas livres, apenas responde a opções pré-programadas, nenhuma delas útil para o caso específico de Carlos.  
-
-#### **4. Exploração Manual**  
-- Sem alternativas, Carlos navega pelas seções disponíveis, como "Área de Atuação", mas não encontra orientação clara para localizar o serviço necessário.  
-- Problemas de responsividade comprometem ainda mais sua experiência, já que menus e links não carregam corretamente.  
-
-#### **5. Solução Alternativa: Contato Externo**  
-- Cansado, Carlos acessa a seção "Plantão de Atendimento", onde encontra um número de WhatsApp para suporte.  
-- Por meio do WhatsApp, ele consegue ajuda e realiza o agendamento necessário para avaliação de sua situação.  
-
-#### **6. Alívio Final**  
-Embora frustrado com o site, Carlos sente-se aliviado ao conseguir concluir o processo por outro canal, garantindo que sua situação será analisada por profissionais qualificados.  
+| **Cenário**  | **001**                                                                                                          |
+|:------------:|:-----------------------------------------------------------------------------------------------------------------|
+| **Título**   | Navegação para Agendamento de Atendimento sobre Dívida de Aluguel                                               |
+| **Objetivo** | Permitir que qualquer pessoa com necessidade de assistência patrimonial possa agendar atendimento de forma simples e eficiente. |
+| **Contexto** | **Local**: Qualquer ambiente com acesso à internet, utilizando um dispositivo móvel ou computador.<br>**Tempo**: Indeterminado.<br>**Pré-condição**: Site funcional e responsivo. |
+| **Atores**   | Usuários com acesso à internet e necessidade de assistência patrimonial.                                         |
+| **Recursos** | Smartphone ou computador com acesso à internet, site da Defensoria Pública.                                      |
+| **Episódios**| 1. O usuário acessa o site da Defensoria Pública pelo navegador do dispositivo.<br>2. Localiza a opção "Plantão Atendimento" na página inicial e clica nela.<br>3.Localize a aba de Atendimento pelo Whatsapp e acesse o link.<br>4. O site te mandará para o Whatsapp em um chat com um atendente.<br>5. O agendamento é feito pelo whatsapp. |
+| **Restrição**| Conexão instável ou indisponível, não possuir uma conta no Whatsapp.                                                                                 |
+| **Exceção**  | Problemas técnicos no site que impedem o agendamento.<br>Usuário sem acesso a um dispositivo conectado à internet. |
 
 ---
 
-### **Restrições**  
-- **Responsividade**: Se o site não se adaptar bem ao smartphone, Carlos pode abandonar o processo.  
-- **Conexão Limitada**: Um site que consome muitos dados ou tem carregamento lento é praticamente inacessível para usuários como Carlos.  
-- **Complexidade Excessiva**: A falta de uma interface intuitiva ou opções de busca direta desencoraja usuários de baixa afinidade tecnológica.  
+### **Cenário - Informações sobre o Programa de Estágio da DPDF**  
+
+| **Cenário**  | **002**                                                                                                          |
+|:------------:|:-----------------------------------------------------------------------------------------------------------------|
+| **Título**   | Acesso às Informações sobre o Programa de Estágio da DPDF                                                       |
+| **Objetivo** | Permitir que qualquer interessado encontre facilmente informações claras e organizadas sobre o programa de estágio. |
+| **Contexto** | **Local**: Ambiente doméstico, utilizando notebook com acesso à internet.<br>**Tempo**: Final de tarde, momento tranquilo para pesquisa.<br>**Pré-condição**: Site funcional e intuitivo, com informações atualizadas. |
+| **Atores**   | Estudantes de Direito em busca de informações sobre o estágio.<br>Site da DPDF como fonte de informações.       |
+| **Recursos** | Notebook com acesso à internet, site da DPDF com informações sobre estágio.                                      |
+| **Episódios**| 1. O usuário acessa o site da DPDF pelo navegador e localiza a seção "Estágio Remunerado".<br>2. Encontra rapidamente informações detalhadas, como requisitos, valores da bolsa, e datas importantes.<br>3. Os formulários estão todos visíveis e de fácil acesso.<br>4. Faz o download de arquivos relevantes e organiza as informações para se preparar para a inscrição no estágio.<br>5. Entra em contato com o número para contato na página e encaminhar todos os documentos necessários. |
+| **Restrição**| Problemas técnicos no site, como links quebrados ou falta de atualização nas informações disponíveis.            |
+| **Exceção**  | Usuário não atingir os requisitos para estágio<br>Usuário sem acesso a um dispositivo conectado à internet. |  
+
 
 ---
 
-### **Exceções Reescritas**  
-1. **Erros Técnicos no Site**:  
-   - Campos obrigatórios mal projetados ou mensagens de erro confusas podem impedir Carlos de concluir o agendamento.  
-   - Problemas no carregamento do site ou no envio de formulários podem fazer com que ele desista de utilizar o serviço.  
+### **Cenário 003 - Utilização do Chatbot para Dúvidas Gerais**  
 
-2. **Falta de Comunicação na Confirmação**:  
-   - A confirmação do agendamento pode não ser enviada devido a falhas no sistema ou erros de digitação no e-mail ou telefone de Carlos.  
-
-3. **Canais Alternativos com Problemas**:  
-   - O número de WhatsApp pode estar desatualizado ou indisponível, forçando Carlos a tentar novamente outro dia, perdendo tempo crucial.  
-
----
-
-### **Conclusão**  
-O cenário reforça a necessidade de priorizar uma experiência digital inclusiva e funcional para públicos vulneráveis como Carlos Marinho. Melhorias como um design responsivo, uma barra de busca eficiente, orientações claras e ferramentas complementares, como WhatsApp, são essenciais para garantir acessibilidade e satisfação.
+| **Cenário**  | **003**                                                                                                          |
+|:------------:|:-----------------------------------------------------------------------------------------------------------------|
+| **Título**   | Dúvidas Gerais Resolvidas pelo Chatbot                                                                          |
+| **Objetivo** | Garantir que qualquer usuário possa acessar informações básicas e específicas utilizando o chatbot do site.      |
+| **Contexto** | **Local**: Qualquer ambiente com acesso à internet.<br>**Tempo**: Indeterminado.<br>**Pré-condição**: Chatbot funcional no site da Defensoria Pública. |
+| **Atores**   | Usuários que buscam informações gerais ou específicas no site.                                                  |
+| **Recursos** | Smartphone ou computador com internet, site da Defensoria Pública.                                              |
+| **Episódios**| 1. O usuário acessa o site e identifica o ícone do chatbot na página inicial.<br>2. Abre a interface do chatbot e seleciona uma opção no menu inicial, como "Dúvidas Frequentes" ou "Informações Jurídicas".<br>3. O chatbot responde com informações claras e, se necessário, apresenta links para páginas específicas do site ou outros canais de atendimento.<br>4. O usuário avalia se a resposta atendeu sua necessidade e pode fornecer feedback sobre a interação. |
+| **Restrição**| Conexão instável ou ausência de acesso à internet.                                                               |
+| **Exceção**  | Respostas imprecisas ou chatbot indisponível devido a problemas técnicos. |
 
 ---
-
-### Cenário 002 - Acompanhamento de Solicitação no Site da Defensoria Pública do Distrito Federal (DPDF)**
-
-## **Título**  
-Dificuldades no Acompanhamento de Solicitação sobre Benefício Jurídico  
-
-## **Objetivo**  
-Garantir que Ana Oliveira consiga verificar o andamento de sua solicitação de assistência jurídica de forma clara, prática e detalhada.  
-
-## **Contexto**  
-- **Local:** Casa de Ana Oliveira, utilizando o computador.  
-- **Tempo:** Final de tarde, após seu expediente como auxiliar administrativa.  
-- **Pré-condição:** O site da DPDF deve ser funcional, com informações organizadas e uma área de acompanhamento intuitiva.  
-
-## **Atores**  
-- **Ana Oliveira:** Usuária primária, com nível médio de conhecimento tecnológico e uma expectativa de encontrar informações detalhadas sobre sua solicitação.  
-- **Site da DPDF:** Plataforma usada para verificar o status da solicitação.  
-
-## **Recursos**  
-- Computador com conexão estável.  
-- Navegador de internet atualizado.  
-- Sistema de acompanhamento do site da DPDF.  
-
----
-
-## **Fluxo de Interação**
-
-1. **Acesso ao Site**  
-   Ana acessa o site da DPDF pelo navegador do computador e procura pela seção de "Acompanhamento de Solicitações".  
-
-2. **Primeira Dificuldade: Interface Confusa**  
-   O menu principal do site apresenta várias opções com nomenclaturas técnicas, dificultando a localização direta da área de acompanhamento.  
-   Ela gasta alguns minutos explorando os menus antes de localizar a seção correta.  
-
-3. **Tentativa de Inserir Dados**  
-   Ao acessar a área de acompanhamento, Ana insere o número de protocolo e CPF.  
-   Porém, o sistema apresenta mensagens genéricas, como "Processo em análise", sem detalhes específicos ou prazos estimados.  
-
-4. **Busca por Mais Detalhes**  
-   Ana tenta navegar para outras páginas do site em busca de informações adicionais, mas percebe que os menus são pouco intuitivos, e os links frequentemente a redirecionam para páginas sem relação com o acompanhamento da solicitação.  
-
-5. **Frustração Crescente**  
-   Mesmo após localizar a seção correta, Ana não consegue entender o status do processo, sentindo-se frustrada por não encontrar informações mais claras sobre prazos ou etapas futuras.  
-
-6. **Solução Alternativa**  
-   Ana decide enviar uma mensagem pelo canal de atendimento via e-mail listado no site, explicando sua dúvida e solicitando mais detalhes.  
-   Ela aguarda a resposta por este meio, mas se sente insatisfeita com o tempo e esforço necessários para obter uma informação aparentemente simples.  
-
----
-
-## **Restrições**  
-- **Interface Pouco Intuitiva:** A navegação complexa e a ausência de informações específicas dificultam a conclusão do objetivo.  
-- **Mensagens Genéricas:** Sem informações detalhadas, Ana não consegue compreender o status real de sua solicitação.  
-- **Falta de Suporte Imediato:** A necessidade de recorrer a outros canais, como e-mail, aumenta a frustração e o tempo de espera.  
-
----
-
-## **Exceções**
-
-1. **Erros no Sistema de Acompanhamento**  
-   - Campos obrigatórios mal sinalizados ou mensagens de erro podem impedir Ana de verificar sua solicitação.  
-   - O sistema pode falhar ao carregar informações devido a instabilidades técnicas.  
-
-2. **Falta de Atualização**  
-   - O status da solicitação pode estar desatualizado, apresentando informações incorretas ou incompletas.  
-
-3. **Problemas nos Canais Alternativos**  
-   - O e-mail enviado pode demorar para ser respondido ou conter respostas genéricas, forçando Ana a buscar outros meios para obter informações.  
-
----
-
-## **Analise**  
-Ana Oliveira enfrenta diversos desafios ao utilizar o sistema de acompanhamento de solicitações do site da DPDF. A interface confusa e menus com nomenclaturas técnicas dificultam a navegação, enquanto mensagens genéricas como "Processo em análise" oferecem pouca clareza sobre o andamento de sua solicitação. Além disso, a falta de informações detalhadas e específicas sobre prazos ou próximas etapas aumenta sua frustração. Esses problemas prejudicam a eficiência do processo e reduzem sua confiança na plataforma. Isso evidencia a necessidade de melhorias no design da interface e na apresentação das informações, garantindo uma experiência mais clara, acessível e eficiente para os usuários.
-
----
-
-### Cenário 3: Utilizar o Chatbot para Tirar Dúvidas Gerais
-
-## Título
-
-**Dificuldade de Navegação no Site para Tirar Dúvidas Gerais**
-
-## Objetivo
-
-Facilitar o acesso de Carlos às informações gerais e específicas sobre serviços, utilizando o chatbot do site da DPDF.
-
-## Contexto
-
-**Local:** Ambiente de intervalo de almoço  
-**Tempo:** Tarde  
-**Pré-condição:** O site da Defensoria Pública precisa estar funcional e responsivo, oferecendo uma interface clara e acessível para usuários com baixa afinidade tecnológica.
-
-## Atores
-
-- **Carlos:** Usuário vulnerável, com baixa experiência em navegação online e enfrentando um caso de despejo.
-- **Site da DPDF:** Ferramenta que ele utiliza para buscar informações e agendar um atendimento.
-- **Chatbot:** Assistente virtual integrado no site da DPDF.
-
-## Recursos
-
-- Smartphone com internet móvel limitada.
-- Site da DPDF, incluindo o chatbot para dúvidas gerais.
-
-## Episódios
-
-### Acessar o Site
-
-- Carlos abre um navegador e acessa o site da DPDF durante seu intervalo de almoço, usando dados móveis.
-
-### Iniciar a Interação com o Chatbot
-
-- Carlos clica no ícone do chatbot, geralmente localizado no canto inferior direito da tela.
-- A janela de chat do chatbot é aberta.
-
-### Escolher Opção Desejada
-
-- O chatbot apresenta várias opções de navegação, como "Informações sobre serviços", "Dúvidas frequentes", "Contato", etc.
-- Carlos clica na opção "Dúvidas frequentes" para encontrar informações sobre assistência jurídica.
-
-### Seguir as Instruções do Chatbot
-
-- O chatbot fornece respostas automáticas baseadas nas opções clicadas por Carlos.
-- Carlos escolhe a opção que mais se aproxima de sua necessidade e navega através das opções do chatbot.
-
-### Navegar pelo Chatbot
-
-- Carlos pode clicar no botão "Voltar" para retornar ao menu anterior do chatbot ou clicar no botão "Menu Principal" para retornar à tela inicial do chatbot e escolher outra opção.
-
-### Obter a Resposta Final
-
-- O chatbot apresenta a resposta final ou as instruções necessárias.
-- Carlos lê as instruções fornecidas e, se necessário, segue os passos recomendados, como clicar em links para páginas de agendamento ou informações adicionais.
-
-### Feedback e Conclusão
-
-- O chatbot pode perguntar se a informação fornecida foi útil ou solicitar feedback sobre a interação.
-- Carlos fornece feedback, se solicitado.
-
-## Restrições
-
-- Acesso à internet.
-
-## Exceções
-
-- Falta de conexão com a internet.
-- Problemas técnicos no chatbot, como respostas erradas ou incompletas.
-- Comportamento de digitação contínua do chatbot sem resposta.
-- Links quebrados ou redirecionamentos incorretos dentro das respostas do chatbot.
-
-## Análise
-Carlos enfrenta dificuldades significativas ao usar o chatbot do site da DPDF, que fornece informações incorretas e incompletas, e apresenta comportamento de digitação contínua sem resposta. Links quebrados e uma interface confusa agravam a frustração. Esses problemas diminuem a confiança no sistema e tornam a navegação ineficiente, evidenciando a necessidade de melhorias urgentes no banco de dados de respostas e na interface do chatbot para garantir uma experiência mais satisfatória e intuitiva.
