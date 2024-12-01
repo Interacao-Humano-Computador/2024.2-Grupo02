@@ -15,8 +15,7 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 ###  **Carlos Marinho**
 <center>
 <img src="../assets/personas/Carlos Marinho.jpg" width="400px"> 
-  
-###  **Carlos Marinho**
+
 </center>
 
 
