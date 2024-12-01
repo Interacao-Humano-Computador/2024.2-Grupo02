@@ -14,8 +14,9 @@ Baseando-se no livro *Interação Humano-Computador* (S. D. J. Barbosa, B. S. da
 Refere-se à necessidade de o sistema se alinhar às expectativas e ao modelo mental dos usuários, utilizando terminologias, representações e fluxos de interação familiares. Sistemas que atendem a este princípio são intuitivos e reduzem a carga cognitiva.
 
 ### **Análise**
-O site deve refletir a lógica natural das ações do mundo real, empregando linguagem clara e familiar. Por exemplo, ao acessar o menu principal, o usuário espera encontrar termos como "Atendimento", "Serviços Jurídicos" ou "Contato". No entanto, o site da Defensoria Pública apresenta menus que não são autoexplicativos, como “Sistemas Internos”, dificultando a navegação de usuários leigos.  
+O site da Defensoria Pública apresenta menus e nomenclaturas que não correspondem às expectativas naturais dos usuários. Por exemplo, ao acessar o menu principal, um usuário comum provavelmente busca opções claras e diretas como “Atendimento”, “Serviços Jurídicos” ou “Contato”. No entanto, ao encontrar termos como “Sistemas Internos”, que são mais adequados ao público técnico ou interno da organização, o usuário pode sentir confusão ou frustração.
 
+Essa desconexão entre a linguagem do site e a forma como os usuários compreendem as funções prejudica a experiência, tornando a navegação menos eficiente e aumentando a carga cognitiva. Para um site voltado ao público geral, é essencial priorizar clareza e acessibilidade na organização e nomeação dos menus.
 <center>
 <img src="../assets/images/menu.png" > 
 
@@ -27,8 +28,7 @@ O site deve refletir a lógica natural das ações do mundo real, empregando lin
 Busca reduzir a complexidade das tarefas, dividindo-as em etapas claras e eliminando elementos ou processos desnecessários. Isso facilita a compreensão e execução das ações, minimizando o esforço do usuário.
 
 ### **Análise**
-A realização de tarefas deve ser direta e sem complicações desnecessárias. Apesar de o site apresentar um formulário de solicitação de atendimento simplificado, faltam instruções claras para o preenchimento.  
-
+Embora o site da Defensoria Pública disponibilize um formulário de solicitação de atendimento simplificado, ele apresenta uma falta de instruções claras para o preenchimento. Essa ausência pode gerar dúvidas, especialmente entre usuários menos experientes, resultando em erros ou até na desistência do preenchimento.
 <center>
 <img src="../assets/images/Formulario.png" > 
 
@@ -40,8 +40,9 @@ A realização de tarefas deve ser direta e sem complicações desnecessárias. 
 Este princípio enfatiza que o sistema deve oferecer ao usuário liberdade para corrigir erros ou tomar decisões, sem impor restrições desnecessárias. Deve-se permitir ações como desfazer, refazer ou retornar etapas, promovendo flexibilidade.
 
 ### **Análise**
-O sistema deve permitir ao usuário corrigir ações ou retornar a etapas anteriores sem dificuldades. Atualmente, ao preencher um formulário, não há uma opção clara para salvar rascunhos ou desfazer alterações.  
+O site da Defensoria Pública apresenta uma limitação importante nesse aspecto, particularmente em formulários. Atualmente, não há uma opção visível ou intuitiva para salvar rascunhos ou desfazer alterações feitas durante o preenchimento. Essa ausência força o usuário a completar o formulário em uma única sessão ou, em caso de erros, reiniciar o processo desde o início.
 
+Isso não só aumenta a carga de trabalho, mas também desestimula o uso do sistema em situações onde a interrupção do processo é inevitável. A falta de flexibilidade pode levar usuários a abandonar o preenchimento de formulários longos ou a cometer erros que não podem ser facilmente
 <center>
 <img src="../assets/images/erro.png" > 
 
@@ -53,17 +54,18 @@ O sistema deve permitir ao usuário corrigir ações ou retornar a etapas anteri
 Envolve a uniformidade nos elementos de interface e interação, garantindo que o comportamento seja previsível. Por exemplo, botões semelhantes devem ter aparência e funcionamento idênticos, aumentando a confiança do usuário.
 
 ### **Análise**
-Elementos visuais e funcionais do site devem seguir padrões uniformes. No site da Defensoria Pública, há inconsistências em botões com funções similares, como o uso de diferentes estilos para botões de envio.  
+No site da Defensoria Pública, a inconsistência nos botões de envio representa uma falha no cumprimento desses princípios. Foram observados estilos visuais distintos para botões que desempenham a mesma função, como mudanças na cor, tamanho ou formato. Essas variações podem confundir os usuários, fazendo com que eles hesitem ou demorem mais para completar tarefas simples.
 
+<center>
+<img src="../assets/images/padronização.png" > 
 
----
+</center>
 
 ### **Promovendo a Eficiência do Usuário**  
 Concentra-se em otimizar a interação, tornando-a rápida e responsiva. Ferramentas como atalhos, preenchimento automático e feedback em tempo real ajudam a reduzir o tempo e esforço necessários para alcançar os objetivos.
 
 ### **Análise**
-O site deve ser responsivo e reduzir tempos de espera. Contudo, há momentos em que o site apresenta lentidão sem fornecer feedback ao usuário, como durante o carregamento de páginas.  
-
+Embora o site demonstre uma interface geralmente responsiva, há lacunas significativas que comprometem a eficiência do usuário. Um dos problemas observados é a lentidão no carregamento de páginas. Essa situação é agravada pela ausência de feedback adequado, como barras de progresso ou mensagens informativas, que deixariam claro ao usuário que a ação está sendo processada. A ausência de feedback pode causar incertezas, levando o usuário a acreditar que o sistema está travado ou que sua solicitação não foi registrada, o que frequentemente resulta em ações repetidas ou abandono da tarefa.
 
 
 ---
@@ -72,7 +74,7 @@ O site deve ser responsivo e reduzir tempos de espera. Contudo, há momentos em 
 Trata-se de prever as necessidades do usuário e fornecer soluções proativas. Isso inclui funcionalidades como sugestões de preenchimento, ações predefinidas ou dicas contextuais que facilitam a interação.
 
 ### **Análise**
-O sistema deve prever as necessidades do usuário, como preenchimentos automáticos. No site da Defensoria Pública, ao acessar o histórico de atendimentos, os filtros de busca não têm valores pré-definidos, exigindo esforço adicional.  
+O site da Defensoria Pública carece de funcionalidades proativas que antecipem as necessidades do usuário, como preenchimento automático ou ações predefinidas. Por exemplo, ao acessar o histórico de atendimentos, os filtros de busca não possuem valores padrão, exigindo que o usuário preencha manualmente todas as opções. Essa falta de automação aumenta o esforço cognitivo e pode tornar a interação mais demorada e menos eficiente
 
 
 ---
@@ -81,8 +83,7 @@ O sistema deve prever as necessidades do usuário, como preenchimentos automáti
 Destaca a importância de tornar as opções e informações visíveis e acessíveis. O usuário deve reconhecer facilmente os elementos interativos e saber quais ações são possíveis, sem a necessidade de memorização.
 
 ### **Análise**
-Os elementos disponíveis devem ser facilmente identificáveis. Embora o site destaque algumas ações principais, como “Agendar Atendimento”, há opções menos visíveis que se perdem no design geral.  
-
+O site da Defensoria Pública apresenta desafios relacionados à visibilidade e reconhecimento dos elementos interativos. Embora ações principais, como “Agendar Atendimento”, sejam destacadas, opções secundárias acabam se perdendo no design, prejudicando a navegação. A falta de hierarquia visual clara, contraste adequado e feedback interativo dificulta o reconhecimento e uso eficiente das funcionalidades
 
 ---
 
@@ -90,17 +91,25 @@ Os elementos disponíveis devem ser facilmente identificáveis. Embora o site de
 Envolve apresentar informações claras, concisas e apropriadas ao público-alvo. Linguagem técnica ou complexa deve ser traduzida para termos simples, garantindo que o conteúdo seja compreendido por todos os usuários.
 
 ### **Análise**
-Textos longos e complexos podem dificultar a interação. No site, termos jurídicos são utilizados sem explicação adicional, dificultando o entendimento do público.  
 
----
+O site da Defensoria Pública enfrenta desafios com o uso de textos longos e linguagem jurídica complexa, dificultando a compreensão e interação do público-alvo, que é diversificado e muitas vezes leigo em termos técnicos. A falta de explicações adicionais para conceitos jurídicos pode gerar barreiras de acesso, frustrar usuários e comprometer a experiência de navegação. Para melhorar, é essencial adotar uma comunicação clara e acessível, traduzindo termos técnicos para linguagem simples e estruturando o conteúdo de forma objetiva, com recursos como glossários, parágrafos curtos e títulos explicativos. Essas medidas promovem inclusão, acessibilidade e eficiência no uso do site.
+
+<center>
+<img src="../assets/images/texto.png" > 
+
+</center>
 
 ### **Projeto para Erros**  
 Foca em minimizar a ocorrência de erros e oferecer suporte claro quando eles acontecem. Mensagens de erro devem ser informativas e orientadoras, indicando o problema e sugerindo ações corretivas.
 
 ### **Análise**
-O site deve prever erros e oferecer opções para corrigi-los. Atualmente, ao enviar um formulário com dados incorretos, a mensagem de erro não informa qual campo precisa ser corrigido.  
+O site da Defensoria Pública não fornece feedback detalhado quando o usuário comete erros ao preencher um formulário. Ao enviar dados incorretos, o sistema exibe uma mensagem genérica de erro, mas não especifica qual campo contém o problema. Isso pode causar frustração no usuário e aumentar o tempo necessário para concluir o preenchimento.
 
----
+<center>
+<img src="../assets/images/Formulario.png" > 
+
+</center>
+
 
 ## **Conclusão**  
 Com base nos princípios apresentados, é possível aprimorar a interação do usuário com o site da Defensoria Pública, tornando-o mais acessível, eficiente e alinhado às expectativas do público. Implementar essas melhorias resultará em uma experiência mais satisfatória e funcional.
