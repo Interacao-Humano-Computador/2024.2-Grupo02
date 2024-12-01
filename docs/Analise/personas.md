@@ -67,7 +67,7 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 | **Dispositivos Usados**  | Smartphone, com acesso à internet limitada                                   |
 | **Afinidade com Tecnologia** | Baixa; utiliza a tecnologia apenas para atividades essenciais                           |
 | **Expectativas**         | Encontrar informações simples e rápidas, sem complicação                               |
-|                           | Acessar benefícios sociais e resolver questões relacionadas à aposentadoria             |
+|                           | Acessar benefícios sociais e resolver questões relacionadas denuncia online           |
 | **Frustrações**          | Sites com linguagem técnica ou difícil de entender                                      |
 |                           | Navegação complicada e informações pouco claras                                        |
 | **Objetivos**            |  Fazer uma denúncia online        |
