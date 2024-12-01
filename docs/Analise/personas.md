@@ -6,8 +6,6 @@
 | 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) | [Lucas Sales](https://github.com/Lux-Sales)  |
 
 
-Com base nos dados apresentados na análise do perfil dos usuários, é possível criar algumas **personas** para representar os principais grupos de usuários do site da Defensoria Pública do Distrito Federal. Essas personas são fictícias, mas baseadas nos insights coletados, e ajudam a orientar decisões de design e melhorias no site.
-
 
 
 ### **Personas Primárias:** 
@@ -55,7 +53,6 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 <center>
 <img src="../assets/images/João.jpg" width="400px"> 
 </center>
-
 | **Atributo**              | **Detalhes**                                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------|
 | **Nome**                  | João                                                                                     |
@@ -69,8 +66,6 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 | **Frustrações**          | - Dificuldade em acessar informações detalhadas sobre os serviços da Defensoria Pública    |
 | **Objetivos**            | - Obter informações detalhadas sobre os serviços jurídicos e a atuação da Defensoria Pública |
 |                           | - Obter informações sobre estágios disponíveis na área de direito                          |
-
-
 ### **Personas Secundárias**
 
 ## **Cecília Souza**
@@ -93,17 +88,13 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 | **Objetivos**            |  Fazer uma denúncia online        |
 
 
-Se precisar de mais alterações ou informações, é só avisar!
 ---
 
 ### **Anti-Persona** 
-
-
 ## **Luiza Martins**
 <center>
 <img src="../assets/images/Captura de tela 2024-12-01 185426.png" width="400px"> 
 </center>
-
 | **Atributo**              | **Detalhes**                                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------|
 | **Nome**                  | Luiza                                                                                     |
@@ -119,6 +110,7 @@ Se precisar de mais alterações ou informações, é só avisar!
 |                           | - Conteúdos que exigem muita leitura ou compreensão                                          |
 | **Objetivos**            | - Acessar redes sociais e entretenimento                                                  |
 |                           | - Evitar plataformas ou sistemas que exigem aprendizado complexo ou muito tempo de uso   |
+
 
 ## <a>Bibliografia</a>
 [1] Cooper, Alan, 1952 - About face 3: the essentials of interaction design
