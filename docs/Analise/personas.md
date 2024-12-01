@@ -10,7 +10,9 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 
 
 
-### **Personas Primárias**  
+### **Personas Primárias:** 
+
+###  **Carlos Marinho**
 <center>
 <img src="../assets/personas/Carlos Marinho.jpg" width="400px"> 
   
