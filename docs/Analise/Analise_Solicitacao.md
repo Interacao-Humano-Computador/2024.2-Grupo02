@@ -15,9 +15,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada
 
 ## **Goal 1**: Conectar-se à rede Wi-Fi
 - **OP 1.1**: Ligar o computador.
-- **OP 1.2**: Abrir o menu de conexões de rede na barra de tarefas.
-- **OP 1.3**: Selecionar a rede Wi-Fi desejada.
-- **OP 1.4**: Inserir a senha da rede, se necessário, e confirmar a conexão.
+- **OP 1.2**: Conectar a rede Wi-Fi desejada.
 
 ---
 
