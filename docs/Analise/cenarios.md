@@ -61,7 +61,7 @@
 
 ### **Cenário 004 - Consulta a Matérias Informativos**
 
-| **Cenário**       | **004**                                                                                           |
+| **Cenário**       | **004**                                                                                          |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **Título**        | Acesso a Conteúdo Informativo no Portal                                                          |
 | **Objetivo**      | Facilitar o acesso a informações gerais e educativas sobre os serviços e direitos oferecidos pela Defensoria Pública. |
