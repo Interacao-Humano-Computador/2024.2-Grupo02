@@ -34,7 +34,7 @@ Com base na avaliação heurística descrita, o público-alvo do site da Defenso
 |                            | - Dificuldade para encontrar informações específicas sobre direitos trabalhistas                       |
 | **Objetivos**             | Regularizar sua situação tributária e acessar benefícios sociais                                        |
 
-## **Maria Oliveira**
+## **Ana Oliveira**
 <center>
 <img src="../assets/personas/Maria.jpg" width="400px"> 
 </center>
