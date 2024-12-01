@@ -59,4 +59,19 @@
 | **Restrição**| Conexão instável ou ausência de acesso à internet.                                                               |
 | **Exceção**  | Respostas imprecisas ou chatbot indisponível devido a problemas técnicos. |
 
+### **Cenário 004 - Consulta a Matérias Informativos**
+
+| **Cenário**       | **004**                                                                                           |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| **Título**        | Acesso a Conteúdo Informativo no Portal                                                          |
+| **Objetivo**      | Facilitar o acesso a informações gerais e educativas sobre os serviços e direitos oferecidos pela Defensoria Pública. |
+| **Contexto**      | Local: Qualquer ambiente com acesso à internet. <br> Tempo: Indeterminado. <br> Pré-condição:Conteúdo informativo organizado e disponível no site, em uma linguagem acessível. |
+| **Atores**        | Usuários que procuram informações gerais sobre o site.                                           |
+| **Recursos**      | Smartphone ou computador com acesso à internet e site da Defensoria Pública.                     |
+| **Episódios**     | 1. O usuário acessa o site da Defensoria Pública e identifica a seção "Matérias Informativas". <br> 2. Clica em uma categoria específica e visualiza conteúdos informativos, como artigos, guias práticos e vídeos educativos. <br> 3. O usuário lê o conteúdo e, caso precise de mais detalhes, acessa links para documentos oficiais, legislação relevante ou canais de atendimento. |
+| **Restrição**     | Informações desatualizadas ou ausência de conteúdos sobre o tema de interesse.                   |
+| **Exceção**       | Problemas técnicos no site, como links quebrados ou dificuldade de navegação.                    |
+
+
+
 ---
