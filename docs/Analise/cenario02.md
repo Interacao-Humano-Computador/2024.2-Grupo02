@@ -68,5 +68,5 @@ Garantir que Ana Oliveira consiga verificar o andamento de sua solicitação de 
 
 ---
 
-## **Expectativa Final**  
-Ana deseja que o site da DPDF ofereça uma área de acompanhamento mais clara, com mensagens detalhadas sobre o andamento da solicitação, incluindo informações sobre prazos e próximas etapas. Isso tornaria sua experiência mais satisfatória e eficiente.
+## **Analise**  
+Ana Oliveira enfrenta diversos desafios ao utilizar o sistema de acompanhamento de solicitações do site da DPDF. A interface confusa e menus com nomenclaturas técnicas dificultam a navegação, enquanto mensagens genéricas como "Processo em análise" oferecem pouca clareza sobre o andamento de sua solicitação. Além disso, a falta de informações detalhadas e específicas sobre prazos ou próximas etapas aumenta sua frustração. Esses problemas prejudicam a eficiência do processo e reduzem sua confiança na plataforma. Isso evidencia a necessidade de melhorias no design da interface e na apresentação das informações, garantindo uma experiência mais clara, acessível e eficiente para os usuários.
