@@ -105,3 +105,6 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é utilizada
 ## Conclusão
 
 A análise de tarefas utilizando GOMS e HTA para o site da Defensoria Pública do Distrito Federal (DPDF) destaca os passos necessários para que os usuários atinjam seus objetivos, como consultar informações jurídicas e solicitar assistência jurídica. Esta abordagem não apenas detalha as ações realizadas, mas também identifica áreas potenciais para melhorias na usabilidade do site. A implementação de recomendações baseadas nesta análise pode significativamente aprimorar a experiência do usuário, tornando o site mais intuitivo e eficiente.
+
+## Referência Bibliográfica
+1. BARBOSA, S. D. J.; SILVA, B. S. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2011.  
