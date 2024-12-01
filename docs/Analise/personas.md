@@ -17,8 +17,6 @@ Com base nos dados apresentados na análise do perfil dos usuários, é possíve
 ###  **Carlos Marinho**
 </center>
 
-Com base na avaliação heurística descrita, o público-alvo do site da Defensoria Pública do Distrito Federal (DPDF) possui características que devem ser consideradas na criação de personas. Essas personas representam diferentes perfis de usuários que interagem com o site, refletindo suas dificuldades, necessidades e motivações.  
-
 
 | **Atributo**              | **Detalhes**                                                                                              |
 |----------------------------|----------------------------------------------------------------------------------------------------------|
