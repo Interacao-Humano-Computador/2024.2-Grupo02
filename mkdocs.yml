@@ -54,6 +54,7 @@ nav:
     - Processo de Design: Planejamento/processo_design.md
     - Ferramentas: Planejamento/ferramentas.md
     - HeatMap: Planejamento/heat_map.md
+    - Aspectos Éticos: Analise/aspectoseticos.md
     - Atas de reunião:
       - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
       - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
@@ -65,7 +66,7 @@ nav:
     - Analise de Tarefas: Analise/AnaliseTarefas.md
     - Características da Plataforma: Analise/caracteristicas.md
     - Guia de Estilo: Analise/guiaDeEstilo.md
-    
+    - Metas de Usabilidade: Analise/metasdeusabilidade.md
   - Apresentações:
     - Apresentação etapa 1: Apresentacoes/apresentacao1.md
   - Verificação:

@@ -1,5 +1,9 @@
 
 # **Princípios Gerais**
+### **Histórico de Versão**
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
+| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento |</br>[Karolina Vieira](https://github.com/Karolina91) | [João Victor C. Nobre](https://github.com/Gam13)  |
 
 ## **Introdução**  
 O objetivo deste documento é analisar a interação do usuário com o site da Defensoria Pública, avaliando como os **Princípios e Diretrizes Gerais** da Interação Humano-Computador (IHC) podem ser aplicados. A estruturação do site deve garantir usabilidade, acessibilidade, eficiência e um feedback efetivo, proporcionando uma experiência que atenda às necessidades dos usuários.

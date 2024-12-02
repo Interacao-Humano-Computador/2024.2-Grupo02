@@ -5,7 +5,7 @@
 ### **Histórico de Versão**
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) | [Lucas Sales](https://github.com/Lux-Sales)  |
+| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento |</br>[Paola Nascimento](https://github.com/paolaalim) | [João Victor C. Nobre](https://github.com/Gam13)  |
 
 
 As metas de usabilidade deste projeto foram definidas com base nos fatores de qualidade propostos por Nielsen (1994) e considerando os princípios gerais de design de Interação Humano-Computador. O objetivo é garantir que o sistema avaliado atenda aos requisitos de eficácia, eficiência, segurança, facilidade de aprendizado, facilidade de recordação e satisfação, proporcionando uma experiência de uso satisfatória e funcional para os usuários. Estas metas foram escolhidas com base em problemas observados no site da DPDF, como a dificuldade de localizar informações jurídicas essenciais, o número de cliques excessivo para acessar serviços e a falta de clareza em mensagens de erro.

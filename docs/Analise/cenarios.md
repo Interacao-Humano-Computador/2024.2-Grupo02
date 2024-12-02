@@ -5,6 +5,7 @@
 | :--------: | :----------------------: | :----: | :--------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------: |
 | 20/11/2024 |        21/11/2024        |  1.0   |     Criação do Documento     | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) |   [Lucas Sales](https://github.com/Lux-Sales)    |
 | 02/12/2024 |        02/12/2024        |  1.0   | Adição de cenários 004 e 005 |                                                              [Lucas Sales](https://github.com/Lux-Sales)                                                              | [João Victor C. Nobre](https://github.com/Gam13) |
+| 02/12/2024 |        02/12/2024        |  1.0   | Adição de cenário 006 |[João Victor C. Nobre](https://github.com/Gam13)|  [Lucas Sales](https://github.com/Lux-Sales)|
 
 
 ### **Cenário - [Título do Caso]**
