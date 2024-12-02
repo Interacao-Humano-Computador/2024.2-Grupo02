@@ -138,3 +138,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 ## **Diagrama HTA – Solicitar atendimento à SUAP**
 
 ![HTA SUAP](../assets/images/HTA-SUAP.jpg)
+
+## Bibliografia 
+
+[1] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.<br><br>

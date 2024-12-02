@@ -7,8 +7,13 @@
 | 02/12/2024 |        02/12/2024        |  1.0   | Adição de cenários 004 e 005 |                                                              [Lucas Sales](https://github.com/Lux-Sales)                                                              | [João Victor C. Nobre](https://github.com/Gam13) |
 | 02/12/2024 |        02/12/2024        |  1.0   | Adição de cenário 006 |[João Victor C. Nobre](https://github.com/Gam13)|  [Lucas Sales](https://github.com/Lux-Sales)|
 
+##Introdução
+Os cenários descritos neste documento foram elaborados para detalhar casos de uso específicos, permitindo uma compreensão clara das interações entre os usuários e o sistema em situações distintas. A metodologia aplicada na construção desses cenários busca garantir uma visão abrangente, considerando não apenas as ações esperadas, mas também os desafios e exceções que podem surgir durante os processos descritos.
 
-### **Cenário - [Título do Caso]**
+##Metodologia
+Os cenários são feitos baseado na experiência que uma das personas do projeto teria que percorrer para atingir o seu objetivo na utilização do site da DPDF e os possíveis problemas que eles poderiam encontrar.
+
+### **Modelo de Cenário**
 
 |  **Cenário**  | **[Número do Cenário]**                                                                                                                                                                                                                                                                                                                                        |
 | :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
