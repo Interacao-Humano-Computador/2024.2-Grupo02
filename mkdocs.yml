@@ -63,7 +63,8 @@ nav:
     - Personas: Analise/personas.md
     - Cenários: Analise/cenarios.md
     - Analise de Tarefas: Analise/AnaliseTarefas.md
-  
+    - Características da Plataforma: Analise/caracteristicas.md
+    
   - Apresentações:
     - Apresentação etapa 1: Apresentacoes/apresentacao1.md
   - Verificação:
@@ -75,7 +76,7 @@ nav:
       - Políticas de Branchs: Contribuição/Politicas/Branch.md
       - Políticas de Commit: Contribuição/Politicas/Commit.md
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
-  
+
 # =============================================
 # Tutorial para adicionar novas páginas
 # =============================================
