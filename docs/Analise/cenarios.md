@@ -99,6 +99,19 @@
 |               |
 |  **Exceção**  | Não encontrar Unidade Móvel                                                                                                            |
 
+### **Cenário 006 - Acesso à Intranet da DPDF**
+
+|  **Cenário**  | **006**                                                                                                                                                                                                                                   |
+| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Título**   | Acesso à Intranet da DPDF para Consultar Informações Internas                                                                                                                                                                           |
+| **Objetivo**  | Permitir que defensores e servidores da DPDF acessem a intranet com seus respectivos dados de autenticação para realizar consultas ou acessar serviços internos.                                                                          |
+| **Contexto**  | **Local**: Ambiente corporativo ou doméstico, utilizando um dispositivo conectado à internet.<br>**Tempo**: Durante o expediente ou em momento de necessidade.<br>**Pré-condição**: Credenciais válidas e site da DPDF funcional.      |
+|  **Atores**   | Defensores e servidores da DPDF que precisam acessar a intranet para realizar atividades internas ou obter informações institucionais.                                                                                                 |
+| **Recursos**  | Computador ou dispositivo móvel com acesso à internet, navegador atualizado, e as credenciais (nome de usuário ou e-mail e senha).                                                                                                      |
+| **Episódios** | 1. O usuário acessa o site oficial da DPDF.<br>2. Localiza a aba "Defensores e Servidores" no menu principal.<br>3. Clica na opção "Intranet".<br>4. Insere seu nome de usuário ou e-mail e a senha.<br>5. Conclui o login com sucesso. |
+| **Restrição** | 1. Conexão instável ou ausência de internet.<br>2. Perda ou esquecimento das credenciais de acesso.<br>3. Site indisponível devido a manutenção ou falha técnica.                                                                      |
+|  **Exceção**  | 1. Erros de autenticação (e.g., senha incorreta).<br>2. Bloqueio da conta por tentativas excessivas de login inválido.<br>3. Navegador incompatível ou problemas de certificado no site.                                               |
+
 ## <a>Bibliografia</a>
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) _Interação Humano-Computador e Experiência do usuário_. Autopublicação. ISBN: 978-65-00-19677-1.
 
