@@ -1,25 +1,25 @@
 # Características da Plataforma 
 
-## <a>Histórico de Versão </a>
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 01/11/2024 |        02/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13)</br></br> [Lucas Sales](https://github.com/Lux-Sales) | [Lucas Sales](https://github.com/Lux-Sales)  |
+## Histórico de Versão 
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                 Autor                                                  |                   Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------: |
+| 01/11/2024 |        02/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13)</br></br> [Lucas Sales](https://github.com/Lux-Sales) | [Lucas Sales](https://github.com/Lux-Sales) |
 
-## <a>Introdução </a>
+## Introdução 
 Como ponto inicial do ciclo de vida de Mayhew, as características da plataforma estão na primeira fase da mesma, denominada análise de requisitos, estas tratam das características do usuário e também estão relacionadas aos critérios de usabilidade. Nesta análise serão abordados critérios de tecnologia, portabilidade e outros aspectos importantes da plataforma. Considerando o que seus usuários desejam e quais são os principais requisitos que o produto visa solucionar. Abaixo está uma figura que descreve a primeira fase do ciclo de vida de Mayhew [4]
 
 <center><img src="../../assets/images/Mayhew2.png" width="800" height=auto>*Figura 1 - Análise de requisitos do ciclo de vida de Mayhew*.<img></center> 
 
-## <a>Objetivo </a>
+## Objetivo 
 
 O objetivo deste documento é descrever as características do site da Defensoria Pública do Distrito Federal, aspectos de acessibilidade e demais interações com o usuário, para que seja realizada uma análise de requisitos que visa propor melhorias para o sistema mencionado.
 
-## <a>ISO/IEC </a>
+## ISO/IEC 
 <p align="justify">
 ISO é a sigla para International Organization for Standardization, uma organização internacional que promove a padronização de produtos e serviços por meio de normas internacionais. IEC se refere à Comissão Eletrotécnica Internacional, que trabalha para normatização de tecnologias elétricas, eletrônicas e relacionadas. Em conjunto, ambas desenvolvem as normas ISO/IEC e, especificamente a 25010, é sobre qualidade de software.
 </p> 
 
-## <a>Portabilidade </a>
+## Portabilidade 
 <p align="justify"> 
 Segundo a ISO/IEC 25010, a portabilidade é um dos critérios de qualidade de um sistema, que descreve a capacidade de um sistema de ser transferido de um ambiente para outro, ou seja, como um sistema se comporta em ambientes desktop, mobile, tablets, ipads, etc.
 
@@ -31,11 +31,12 @@ Capacidade de substituição: capacidade de ser trocado por outro produto simila
 </p> 
 
 
-## <a>Tecnologias Utilizadas </a>
+## Tecnologias Utilizadas 
 Estas foram as tecnologias utilizadas para desenvolver o sistema, obtidas utilizando a extensão do Google Chrome Wappalyzer
-<center><img src="../../assets/images/tecnologias.png" width="400" height=auto>*Figura 2 - Tecnologias utilizadas no site*.<img></center> 
+<center><img src="../../assets/images/tecnologias.png" width="400" height=auto><img></center> 
+<center>*Figura 2 - Tecnologias utilizadas no site*.</center>
 
-## <a>Funcionalidades </a>
+## Funcionalidades 
 O portal da Defensoria Pública do Distrito Federal possui vários objetivos, tanto relacionados à própria defensoria, como sua missão, valores, questões institucionais, de imprensa e etc. Como também, serviços para o cidadão, como assistência jurídica, concursos abertos, atividade psicossocial, escola jurídica, etc. Abaixo, está descrita cada seção, com suas opções.
 
 # Seção Institucional:
@@ -98,7 +99,7 @@ O portal da Defensoria Pública do Distrito Federal possui vários objetivos, ta
 - Serviço de Informação ao Cidadão  
 
 
-## <a>Características Negativas </a>
+## Características Negativas 
 
 Assim que adentramos a plataforma, a mesma mostra muita poluição visual, com muita informação disposta e pouca navegabilidade intuitiva, a escolha de cores dos ícones, com elementos do layout, com o plano de fundo branco, dificulta a separação de tópicos do website, além dos títulos de cada seção na página inicial, serem poucos chamativos e consumidos pelo contéudo da seção em si, o que dá a impressão de que a informação muda de forma brusca, sem o usuário perceber facilmente que está lidando com uma nova seção da página.
 
@@ -112,10 +113,10 @@ A seção cartilhas nos leva a outro website, relacionado à escola jurídica, o
 Em suma, o sistema se mostra de navegação pouco intuitiva, com muita poluição visual e grande dificuldade de entendimento de como o mesmo funciona e como realizar os objetivos neste.
 
 
-## <a>Bibliografia </a>
+## Bibliografia 
 
-[1] A ISO/IEC 25010 e sua importância para a qualidade de software, disponível em: https://blog.onedaytesting.com.br/iso-iec-25010/. Acesso em 01 de dezembro de 2024
-[2] ISO 25010, disponível em: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6. Acesso em: 01 de dezembro de 2024.
-[3] Análise da plataforma Simples Nacional - Características da plataforma, disponível em:https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma/#. Acesso em 01 de dezembro de 2024.
-[4] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.
+[1] A ISO/IEC 25010 e sua importância para a qualidade de software, disponível em: https://blog.onedaytesting.com.br/iso-iec-25010/. Acesso em 01 de dezembro de 2024 <br><br>
+[2] ISO 25010, disponível em: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6. Acesso em: 01 de dezembro de 2024.<br><br>
+[3] Análise da plataforma Simples Nacional - Características da plataforma, disponível em:https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma/#. Acesso em 01 de dezembro de 2024.<br><br>
+[4] BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. [s.l.] Autopublicação - Leanpub, 2021.<br><br>
 [5] Defensoria Pública do Distrito Federal, disponível em: https://www.defensoria.df.gov.br/. Acesso em 01 de dezembro de 2024

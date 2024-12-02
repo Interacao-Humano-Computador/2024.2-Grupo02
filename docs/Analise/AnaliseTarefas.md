@@ -134,4 +134,7 @@ A metodologia GOMS (Goals, Operators, Methods, and Selection Rules) é usada par
 **OP 1.6** Preencher formulário e clicar em próximo até chegar a uma  página de revisão dos dados<br>
 **OP 1.7** Após finalizar a revisão dos dados, clicar no botão verde  escrito “ENVIAR FORMULÁRIO”<br>
 
+
+## **Diagrama HTA – Solicitar atendimento à SUAP**
+
 ![HTA SUAP](../assets/images/HTA-SUAP.jpg)
