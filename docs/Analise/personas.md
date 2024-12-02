@@ -6,7 +6,43 @@
 | 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) | [Lucas Sales](https://github.com/Lux-Sales)  |
 
 
+## Introdução
 
+Assim como economistas utilizam modelos para representar comportamentos de mercado, a engenharia de software adota a criação de personas como uma ferramenta poderosa para descrever e entender os usuários. No contexto da Defensoria Pública do Distrito Federal (DPDF), o desenvolvimento de personas é especialmente relevante para otimizar o design e a interação entre os cidadãos e os serviços prestados. 
+
+As personas são criadas com o objetivo de representar de forma geral o comportamento, os pensamentos e os objetivos dos diferentes perfis de usuários que interagem com o sistema. Apesar de serem fictícias, essas personas são baseadas em dados reais, coletados de usuários existentes. A partir dessa abordagem, é possível planejar serviços mais inclusivos e adequados às demandas da população atendida pela DPDF.
+
+## Criação e Contribuição
+
+Para construir personas eficazes, é essencial que sejam baseadas em perfis reais e dados confiáveis. A qualidade das personas está diretamente relacionada à profundidade das informações coletadas. No caso da DPDF, foram consideradas as seguintes fontes de dados:
+
+- **Brainstorm de Fluxos**: Feito para definir quais as principais tarefas do site e que tipo de usuário se beneficiaria delas;
+- **Informações fornecidas pelos stakeholders**: incluindo defensores públicos, assistentes sociais e outros profissionais envolvidos no atendimento;
+- **Questionários direcionados**: enviados a grupos de foco compostos por cidadãos que interagem e que não interagemcom serviços jurídicos;
+- **Dados históricos**: extraídos de relatórios de atendimentos anteriores realizados pela DPDF.
+
+A criação de personas bem fundamentadas beneficia o projeto em vários aspectos, tais como:
+
+- Identificar funcionalidades necessárias nos sistemas de agendamento, atendimento e suporte;
+- Melhorar a comunicação entre os stakeholders e as equipes de desenvolvimento;
+- Promover consenso sobre o design do sistema e medir sua eficácia;
+- Influenciar outras áreas do serviço, como campanhas de divulgação e programas de capacitação.
+
+As personas construídas a partir desses dados ajudam a DPDF a entender os diferentes perfis de usuários que dependem de seus serviços e, consequentemente, a melhorar a acessibilidade, a eficiência e a satisfação geral com os sistemas implementados.
+
+## Escolhas da Persona
+
+Após levantamento de dados e análise das necessidades da DPDF, o grupo identificou três personas principais, cada uma representando um perfil significativo de usuários. A escolha desse número foi motivada pelos seguintes fatores:
+
+1. **Diversidade dos atendimentos**: Os serviços da DPDF atendem a uma ampla gama de casos, mas as maiores diferenças estão relacionadas às áreas de atuação (como assistência jurídica, mediação de conflitos e orientação social). Esses perfis compartilham um conjunto comum de interações com os sistemas da instituição.
+   
+2. **Perfil secundário**: É importante considerar usuários que precisam de suporte adicional, como pessoas com baixo letramento digital ou acesso limitado à internet.
+
+3. **Simplicidade dos serviços básicos**: Apesar de abrangerem diferentes contextos legais, os serviços mais buscados pela DPDF possuem uma interface e um fluxo simples, permitindo que os mesmos perfis de usuários acessem diferentes áreas de atendimento.
+
+Além das personas principais, foi criada uma **antipersona**, representando indivíduos que não se enquadram no público-alvo da DPDF. Este perfil foi definido com base nos critérios de elegibilidade e nos requisitos para o atendimento pela Defensoria, como renda ou questões legais que não se enquadram nos serviços prestados.
+
+Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessidades reais de seus usuários, garantindo que o atendimento seja mais acessível, eficiente e humanizado.
 
 ### **Personas Primárias:** 
 
@@ -111,8 +147,8 @@
 |                           | - Não tem interesse em aprender sobre questões mais complexas de tecnologia ou serviços  |
 | **Frustrações**          | - Sites difíceis de navegar                                                              |
 |                           | - Conteúdos que exigem muita leitura ou compreensão                                          |
-| **Objetivos**            | - Acessar redes sociais e entretenimento                                                  |
-|                           | - Evitar plataformas ou sistemas que exigem aprendizado complexo ou muito tempo de uso   |
+| **Objetivos**            | - Ajudar alguém que precisa usar o site                                                |
+
 
 
 ## <a>Bibliografia</a>
