@@ -172,10 +172,6 @@ pie
     "Nunca" : 1
 ```
 
----
-
-### **Conclusões**
-Com base nos resultados obtidos, observa-se que há uma maior familiaridade com o uso de dispositivos móveis e uma necessidade de melhoria na acessibilidade e facilidade de uso do site da Defensoria Pública. A capacitação em tecnologias também é uma área a ser considerada para melhorar a experiência dos usuários.
 
 ---
 
