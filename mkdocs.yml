@@ -64,6 +64,7 @@ nav:
     - Cenários: Analise/cenarios.md
     - Analise de Tarefas: Analise/AnaliseTarefas.md
     - Características da Plataforma: Analise/caracteristicas.md
+    - Guia de Estilo: Analise/guiaDeEstilo.md
     
   - Apresentações:
     - Apresentação etapa 1: Apresentacoes/apresentacao1.md
