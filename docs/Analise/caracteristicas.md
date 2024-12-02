@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão </a>
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 29/11/2024 |        30/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13)</br></br> [Lucas Sales](https://github.com/Lux-Sales) | [Lucas Sales](https://github.com/Lux-Sales)  |
+| 01/11/2024 |        02/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13)</br></br> [Lucas Sales](https://github.com/Lux-Sales) | [Lucas Sales](https://github.com/Lux-Sales)  |
 
 ## <a>Introdução </a>
 Como ponto inicial do ciclo de vida de Mayhew, as características da plataforma estão na primeira fase da mesma, denominada análise de requisitos, estas tratam das características do usuário e também estão relacionadas aos critérios de usabilidade. Nesta análise serão abordados critérios de tecnologia, portabilidade e outros aspectos importantes da plataforma. Considerando o que seus usuários desejam e quais são os principais requisitos que o produto visa solucionar. Abaixo está uma figura que descreve a primeira fase do ciclo de vida de Mayhew [4]
@@ -113,6 +113,7 @@ Em suma, o sistema se mostra de navegação pouco intuitiva, com muita poluiçã
 
 
 ## <a>Bibliografia </a>
+
 [1] A ISO/IEC 25010 e sua importância para a qualidade de software, disponível em: https://blog.onedaytesting.com.br/iso-iec-25010/. Acesso em 01 de dezembro de 2024
 [2] ISO 25010, disponível em: https://iso25000.com/index.php/en/iso-25000-standards/iso-25010?start=6. Acesso em: 01 de dezembro de 2024.
 [3] Análise da plataforma Simples Nacional - Características da plataforma, disponível em:https://interacao-humano-computador.github.io/2022.2-SimplesNacional/Tarefas/CaracteristicasPlataforma/#. Acesso em 01 de dezembro de 2024.
