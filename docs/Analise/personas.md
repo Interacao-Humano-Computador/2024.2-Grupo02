@@ -3,7 +3,7 @@
 ### **Histórico de Versão**
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    |                     Revisor                      |
 | :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :----------------------------------------------: |
-| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) | [Lucas Sales](https://github.com/Lux-Sales)  |
+| 20/11/2024 |        21/11/2024        |  1.0   | Criação do Documento | [João Victor C. Nobre](https://github.com/Gam13) </br></br>[Karolina Vieira](https://github.com/Karolina91)</br></br>[Paola Nascimento](https://github.com/paolaalim) | [Lucas Sales](https://github.com/Lux-Sales)  |
 
 
 
