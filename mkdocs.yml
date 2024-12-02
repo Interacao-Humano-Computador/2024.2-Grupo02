@@ -54,12 +54,21 @@ nav:
     - Processo de Design: Planejamento/processo_design.md
     - Ferramentas: Planejamento/ferramentas.md
     - HeatMap: Planejamento/heat_map.md
-  - Atas de reunião:
-    - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
-    - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
-    - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+    - Atas de reunião:
+      - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
+      - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
+      - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+  - Análise de Requisitos:
+    - Perfil de Usuário: Analise/perfilUsuario.md
+    - Personas: Analise/personas.md
+    - Cenários: Analise/cenarios.md
+    - Analise de Tarefas: Analise/AnaliseTarefas.md
+    - Características da Plataforma: Analise/caracteristicas.md
+    
+  - Apresentações:
+    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
   - Verificação:
-    - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
+      - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
@@ -67,13 +76,6 @@ nav:
       - Políticas de Branchs: Contribuição/Politicas/Branch.md
       - Políticas de Commit: Contribuição/Politicas/Commit.md
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
-  - Apresentações:
-    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
-  - Análise de Requisitos:
-    - Perfil de Usuário: Analise/perfilUsuario.md
-    - Personas: Analise/personas.md
-    - Cenários: Analise/cenarios.md
-    - Características da Plataforma: Analise/caracteristicas.md
 
 # =============================================
 # Tutorial para adicionar novas páginas
