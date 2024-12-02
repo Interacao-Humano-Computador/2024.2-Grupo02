@@ -11,6 +11,37 @@
 Esta pesquisa tem como objetivo entender o perfil dos usuários do site da Defensoria Pública do Distrito Federal, explorando a experiência dos usuários com a acessibilidade, usabilidade e a tecnologia utilizada pelo serviço. A seguir, apresentamos os resultados da pesquisa.
 
 ---
+### **Perfil do Usuário da Defensoria Pública do Distrito Federal**
+
+
+### **Resultados**
+
+Os resultados obtidos através da pesquisa e do questionário são consistentes, revelando semelhanças entre os métodos aplicados. O questionário incluiu perguntas específicas que podem ser vistas na Tabela 1:
+
+**Tabela 1 - Perguntas do Formulário Eletrônico**
+
+| Número | Pergunta                                    |
+|--------|--------------------------------------------|
+| 1      | Qual a sua idade?                          |
+| 2      | Qual o seu sexo?                           |
+| 3      | Qual a sua escolaridade?                   |
+| 4      | Qual a sua experiência com a Defensoria Pública? |
+| 5      | Qual a sua afinidade com tecnologia?       |
+| 6      | Principal motivo para utilizar os serviços da Defensoria Pública? |
+| 7      | Qual dispositivo você mais usa para acessar o site? |
+| 8      | Qual sua ocupação atual?                   |
+| 9     | Por quanto tempo você utiliza dispositivos eletrônicos no dia? |
+
+A pesquisa revelou os seguintes dados estatísticos:  
+
+- **Idade**: A maioria dos usuários está entre 18 e 60 anos.  
+- **Sexo**: 62,5% do sexo feminino e 37,5% do sexo masculino.  
+- **Status Socioeconômico**: Predominam usuários de classe média, média-baixa e baixa.  
+- **Local de Trabalho**: Usuários incluem estudantes, trabalhadores autônomos e assalariados.  
+- **Motivações**: Buscam principalmente assistência jurídica gratuita e acessível.  
+- **Tecnologia**: Celulares são os dispositivos mais utilizados para acessar os serviços.  
+- **Afinidade com Tecnologia**: Jovens possuem maior familiaridade com o site, enquanto usuários mais velhos enfrentam desafios de navegação.  
+
 
 ### **Distribuição de Idade dos Respondentes**
 A distribuição etária dos participantes revelou uma ampla diversidade, com representação significativa em diversas faixas etárias.

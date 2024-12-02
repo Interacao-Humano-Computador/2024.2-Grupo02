@@ -49,13 +49,14 @@
 |                            | Mesmo após localizar a área correta, o status da solicitação apresenta mensagens genéricas, sem detalhes específicos sobre o andamento do processo ou prazos estimados |
 | **Objetivos**             | Acompanhar a resposta de uma solicitação                                                                 |
 
-## **João Vitor**
+## **João Vitor Freitas**
 <center>
 <img src="../assets/images/João.jpg" width="400px"> 
 </center>
+
 | **Atributo**              | **Detalhes**                                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------|
-| **Nome**                  | João                                                                                     |
+| **Nome**                  | João Vitor Freitas                                                                                   |
 | **Idade**                 | 25 anos                                                                                  |
 | **Profissão**             | Estudante de advocacia                                                                   |
 | **Relacionamentos**       | Solteiro                                                                         |
@@ -66,6 +67,7 @@
 | **Frustrações**          | - Dificuldade em acessar informações detalhadas sobre os serviços da Defensoria Pública    |
 | **Objetivos**            | - Obter informações detalhadas sobre os serviços jurídicos e a atuação da Defensoria Pública |
 |                           | - Obter informações sobre estágios disponíveis na área de direito                          |
+
 ### **Personas Secundárias**
 
 ## **Cecília Souza**
@@ -95,6 +97,7 @@
 <center>
 <img src="../assets/images/Captura de tela 2024-12-01 185426.png" width="400px"> 
 </center>
+
 | **Atributo**              | **Detalhes**                                                                              |
 |---------------------------|-------------------------------------------------------------------------------------------|
 | **Nome**                  | Luiza                                                                                     |
