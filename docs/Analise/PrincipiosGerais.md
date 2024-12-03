@@ -22,7 +22,7 @@ O site da Defensoria Pública apresenta menus e nomenclaturas que não correspon
 
 Essa desconexão entre a linguagem do site e a forma como os usuários compreendem as funções prejudica a experiência, tornando a navegação menos eficiente e aumentando a carga cognitiva. Para um site voltado ao público geral, é essencial priorizar clareza e acessibilidade na organização e nomeação dos menus.
 <center>
-<img src="../assets/images/menu.png" > 
+![Menu](../assets/images/menu.png)
 
 </center>
 
@@ -34,7 +34,7 @@ Busca reduzir a complexidade das tarefas, dividindo-as em etapas claras e elimin
 ### **Análise**
 Embora o site da Defensoria Pública disponibilize um formulário de solicitação de atendimento simplificado, ele apresenta uma falta de instruções claras para o preenchimento. Essa ausência pode gerar dúvidas, especialmente entre usuários menos experientes, resultando em erros ou até na desistência do preenchimento.
 <center>
-<img src="../assets/images/Formulario.png" > 
+![Formulario](../assets/images/Formulario.png)
 
 </center>
 
@@ -48,7 +48,7 @@ O site da Defensoria Pública apresenta uma limitação importante nesse aspecto
 
 Isso não só aumenta a carga de trabalho, mas também desestimula o uso do sistema em situações onde a interrupção do processo é inevitável. A falta de flexibilidade pode levar usuários a abandonar o preenchimento de formulários longos ou a cometer erros que não podem ser facilmente
 <center>
-<img src="../assets/images/erro.png" > 
+![Erro](../assets/images/erro.png)
 
 </center>
 
@@ -61,7 +61,8 @@ Envolve a uniformidade nos elementos de interface e interação, garantindo que 
 No site da Defensoria Pública, a inconsistência nos botões de envio representa uma falha no cumprimento desses princípios. Foram observados estilos visuais distintos para botões que desempenham a mesma função, como mudanças na cor, tamanho ou formato. Essas variações podem confundir os usuários, fazendo com que eles hesitem ou demorem mais para completar tarefas simples.
 
 <center>
-<img src="../assets/images/padronização.png" > 
+![Padronização](../assets/images/padronização.png)
+
 
 </center>
 
@@ -99,7 +100,7 @@ Envolve apresentar informações claras, concisas e apropriadas ao público-alvo
 O site da Defensoria Pública enfrenta desafios com o uso de textos longos e linguagem jurídica complexa, dificultando a compreensão e interação do público-alvo, que é diversificado e muitas vezes leigo em termos técnicos. A falta de explicações adicionais para conceitos jurídicos pode gerar barreiras de acesso, frustrar usuários e comprometer a experiência de navegação. Para melhorar, é essencial adotar uma comunicação clara e acessível, traduzindo termos técnicos para linguagem simples e estruturando o conteúdo de forma objetiva, com recursos como glossários, parágrafos curtos e títulos explicativos. Essas medidas promovem inclusão, acessibilidade e eficiência no uso do site.
 
 <center>
-<img src="../assets/images/texto.png" > 
+![texto](../assets/images/texto.png)
 
 </center>
 
@@ -110,7 +111,7 @@ Foca em minimizar a ocorrência de erros e oferecer suporte claro quando eles ac
 O site da Defensoria Pública não fornece feedback detalhado quando o usuário comete erros ao preencher um formulário. Ao enviar dados incorretos, o sistema exibe uma mensagem genérica de erro, mas não especifica qual campo contém o problema. Isso pode causar frustração no usuário e aumentar o tempo necessário para concluir o preenchimento.
 
 <center>
-<img src="../assets/images/Formulario.png" > 
+![formulario](../assets/images/Formulario.png)
 
 </center>
 

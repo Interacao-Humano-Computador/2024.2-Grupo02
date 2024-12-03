@@ -47,8 +47,8 @@ Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessida
 ### **Personas Primárias:** 
 
 ###  **Carlos Marinho**
-<center>
-<img src="../assets/personas/Carlos Marinho.jpg" width="400px"> 
+<center >
+![Carlos Marinho](../assets/personas/Carlos Marinho.jpg)
 
 </center>
 
@@ -69,7 +69,7 @@ Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessida
 
 ## **Ana Oliveira**
 <center>
-<img src="../assets/personas/Maria.jpg" width="400px"> 
+![Maria](../assets/personas/Maria.jpg)
 </center>
 
 | **Atributo**              | **Detalhes**                                                                                               |
@@ -87,7 +87,7 @@ Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessida
 
 ## **João Vitor Freitas**
 <center>
-<img src="../assets/images/João.jpg" width="400px"> 
+![João](../assets/images/João.jpg)
 </center>
 
 | **Atributo**              | **Detalhes**                                                                              |
@@ -108,7 +108,7 @@ Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessida
 
 ## **Cecília Souza**
 <center>
-<img src="../assets/images/Cecilia.jpg" width="400px"> 
+![Cecilia](../assets/images/Cecilia.jpg)
 </center>
 
 | **Atributo**              | **Detalhes**                                                                              |
@@ -131,7 +131,7 @@ Com essa abordagem, a DPDF busca alinhar seus sistemas e processos às necessida
 ### **Anti-Persona** 
 ## **Luiza Martins**
 <center>
-<img src="../assets/images/Captura de tela 2024-12-01 185426.png" width="400px"> 
+![Luiza](../assets/images/Captura de tela 2024-12-01 185426.png) 
 </center>
 
 | **Atributo**              | **Detalhes**                                                                              |
