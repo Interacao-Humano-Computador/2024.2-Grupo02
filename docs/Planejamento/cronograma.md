@@ -93,8 +93,19 @@
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
-| Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
-| :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+
+|                        Tarefa                        |         Responsáveis         |   Início   |    Fim     | Revisão Início | Revisão Fim |           Revisor            |
+| :--------------------------------------------------: | :--------------------------: | :--------: | :--------: | :------------: | :---------: | :--------------------------: |
+|                  Perfil do usuário                   |         João Victor          | 14/11/2024 | 18/11/2024 |    |                 |Lucas Sales  
+|                       Personas                       | Paola Lima, Karolina Vieira, João Victor | 20/11/2024 | 30/11/2024 |     | |   Lucas Sales    |
+|                   Aspectos éticos                    |          Paola Lima          | 12/11/2024 | 13/11/2024 |      | |       Karolina Vieira        |
+| Técnicas para coletar dados e levantar os requisitos |   Lucas Sales, Paola Lima    | 20/11/2024 | 30/11/2024 |   |  | João Victor, Karolina Vieira |
+|                       Cenários                       |         João Victor,Lucas Sales, Paola Lima, Karolina Vieira         | 28/11/2024 | 02/12/2024 |   |  |         Lucas Sales,João Victor          |
+|                  Análise de tarefas                  | João Victor,Lucas Sales, Paola Lima, Karolina Vieira  | 17/11/2024 | 19/11/2024 |   20/11/2024   | 23/11/2024  |    João Victor   |
+|                  Reunião de revisão                  |            Todos             | 23/11/2024 | 23/11/2024 |   23/11/2024   | 24/11/2024  |            Todos             |
+|                  Atualizar o pages                   |            Todos             | 23/11/2024 | 23/11/2024 |   23/11/2024   | 24/11/2024  |            Todos             |
+|                 Gravar apresentação                  |            Todos             | 24/11/2024 | 24/11/2024 |   24/11/2024   | 28/11/2024  |            Todos             |
+|           Apresentação do projeto etapa 2            |            Todos             | 28/11/2024 | 28/11/2024 |   28/11/2024   | 28/11/2024  |            Todos             |
 
 <div id="etapa3" align="center" color="yellow"><h2>Etapa 3</h2></div>
 
@@ -114,8 +125,16 @@
 
 <div align="center" color="blue"><h3>Executado</h3></div>
 
-| Tarefa | Responsáveis | Início |  Fim  | Revisão Início | Revisão Fim | Revisor |
-| :----: | :----------: | :----: | :---: | :------------: | :---------: | :-----: |
+|             Tarefa              |        Responsáveis         |   Início   |    Fim     | Revisão Início | Revisão Fim |           Revisor           |
+| :-----------------------------: | :-------------------------: | :--------: | :--------: | :------------: | :---------: | :-------------------------: |
+| "Princípios gerais do projeto	" |  Karolina Vieira | 30/11/2024 | 30/11/2024 |  | |  João Victor e Lucas Sales  |
+|         Guia de estilo          |            Todos            | 02/12/2024 | 02/12/2024 |      | |            Todos            |
+|  Características da plataforma  |  Lucas Sales, João Victor   | 30/11/2024 | 01/12/2024 |      |   | Karolina Vieira, Paola Lima |
+|      Metas de usabilidade       |         Paola Lima          | 30/11/2024 | 30/11/2024 |     |   |       Karolina Vieira       |
+|       Reunião de revisão        |            Todos            | 30/11/2024 | 30/11/2024 |   01/12/2024   | 05/12/2024  |            Todos            |
+|        Atualizar o pages        |            Todos            | 30/11/2024 | 30/11/2024 |   01/12/2024   | 05/12/2024  |            Todos            |
+|       Gravar apresentação       |            Todos            | 01/12/2024 | 01/12/2024 |   05/12/2024   | 05/12/2024  |            Todos            |
+| Apresentação do projeto etapa 3 |            Todos            | 05/12/2024 | 05/12/2024 |   05/12/2024   | 05/12/2024  |            Todos            |
 
 <div id="etapa4" align="center" color="yellow"><h2>Etapa 4</h2></div>
 
