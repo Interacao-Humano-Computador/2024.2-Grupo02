@@ -14,4 +14,4 @@
 </ol>
 
 Link para o vídeo da apresentação:
-[link](link)
+[https://youtu.be/2M08WOaUOqg](https://youtu.be/2M08WOaUOqg)
