@@ -1,6 +1,7 @@
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                    | Revisor |
-| :--------: | :----------------------: | :----: | :------------------: | :-----------------------------------------: | :-----: |
-| 10/12/2024 |        10/12/2024        |  1.0   | Criação do Documento | [Lucas Sales](https://github.com/Lux-Sales) |    [Karolina Vieira](https://github.com/Karolina91)     |
+|    Data    | Data Prevista de Revisão | Versão |           Descrição           |                    Autor                    |                     Revisor                      |
+| :--------: | :----------------------: | :----: | :---------------------------: | :-----------------------------------------: | :----------------------------------------------: |
+| 10/12/2024 |        10/12/2024        |  1.0   |     Criação do Documento      | [Lucas Sales](https://github.com/Lux-Sales) | [Karolina Vieira](https://github.com/Karolina91) |
+| 10/12/2024 |        10/12/2024        |  1.1   | Atualizando perfil do usuário | [Lucas Sales](https://github.com/Lux-Sales) |                                                  |
 
 ## Introdução
 
@@ -26,7 +27,7 @@ Dentro do método de investigação, a técnica escolhida para coletar dados sob
 
 ## Perfil do usuário
 
-Jovens entre 15 e 29 anos Brasileiros, que utilizem do site da defensoria pública
+Pessoas entre 18 e 60 anos, brasileiros, que se resumem a estudantes, trabalhadores autônomos e assalariados que utilizem do site da defensoria pública.
 
 ## Número de participantes
 
