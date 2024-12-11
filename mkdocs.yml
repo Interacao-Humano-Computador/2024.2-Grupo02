@@ -79,7 +79,8 @@ nav:
   - Verificação:
       - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
       - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
-      - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md  
+      - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md
+      - Inspeção 4º etapa: Verificacao/inspecao_04.md
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
