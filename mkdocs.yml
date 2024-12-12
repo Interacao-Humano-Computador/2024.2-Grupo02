@@ -2,6 +2,10 @@ site_name: "Defensoria Pública do Distrito Federal"
 repo_url: https://github.com/interacao-humano-computador/2024.2-Grupo02/
 repo_name: "2024.2-Grupo02"
 
+
+plugins:
+    - search
+    - mermaid2
 markdown_extensions:
   - admonition
   - attr_list
@@ -9,8 +13,12 @@ markdown_extensions:
   - footnotes
   - md_in_html
   - pymdownx.caret
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
   - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
@@ -46,12 +54,33 @@ nav:
     - Processo de Design: Planejamento/processo_design.md
     - Ferramentas: Planejamento/ferramentas.md
     - HeatMap: Planejamento/heat_map.md
-  - Atas de reunião:
-    - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
-    - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
-    - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+    - Aspectos Éticos: Analise/aspectoseticos.md
+    - Atas de reunião:
+      - Ata 1° reunião - 02/11/2024: Atas/ata_reunião1.md
+      - Ata 2° reunião - 09/11/2024: Atas/ata_reunião2.md
+      - Ata 3° reunião - 10/11/2024: Atas/ata_reunião3.md
+  - Análise de Requisitos:
+    - Perfil de Usuário: Analise/perfilUsuario.md
+    - Personas: Analise/personas.md
+    - Cenários: Analise/cenarios.md
+    - Analise de Tarefas: Analise/AnaliseTarefas.md
+    - Características da Plataforma: Analise/caracteristicas.md
+    - Guia de Estilo: Analise/guiaDeEstilo.md
+    - Metas de Usabilidade: Analise/metasdeusabilidade.md
+    - Principios Gerais: Analise/PrincipiosGerais.md
+  - Apresentações:
+    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
+    - Apresentação etapa 2: Apresentacoes/apresentacao2.md
+    - Apresentação etapa 3: Apresentacoes/apresentacao3.md
+  - Desenvolvimento:
+    - Planejamentos:
+      - Planejamento da avaliação da análise de tarefas: Desenvolvimento/analiseDeTarefas.md
+      - Planejamento do Relato dos Resultados da Análise de Tarefas: Desenvolvimento/planejamentoRelatoAnaliseTarefas.md
   - Verificação:
-    - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
+      - Inspeção 1° etapa: Verificacao/inspecao_etapa1.md
+      - Inspeção 2º etapa: Verificacao/inspecao_etapa2.md
+      - Inspeção 3º etapa: Verificacao/inspecao_etapa3.md
+      - Inspeção 4ª etapa: Verificacao/inpecao_etapa4.md 
   - Guia de Contribuição:
     - Politicas: Contribuição/Politicas.md
     - Como contribuir?: Contribuição/Tutorial.md
@@ -59,9 +88,6 @@ nav:
       - Políticas de Branchs: Contribuição/Politicas/Branch.md
       - Políticas de Commit: Contribuição/Politicas/Commit.md
       - Políticas de Pull Request: Contribuição/Politicas/PullRequest.md
-  - Apresentações:
-    - Apresentação etapa 1: Apresentacoes/apresentacao1.md
-    
 
 # =============================================
 # Tutorial para adicionar novas páginas
